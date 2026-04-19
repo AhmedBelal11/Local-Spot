@@ -1,0 +1,1257 @@
+product_id,name,price,gender,season,category,subcategory,price_normalized,category_encoded,subcategory_encoded,gender_encoded,season_encoded,price_tier
+40015,Unisex Dirty Denim,950.0,Unisex,All Season,Starnine,Denim,0.23387096774193547,8,1,1,0,2
+40016,Unisex Dark Denim,950.0,Unisex,All Season,Starnine,Denim,0.23387096774193547,8,1,1,0,2
+40017,STRAIGHT FIT BLUE DENIM,980.0,Men,All Season,KNTD,Denim,0.24193548387096775,5,1,0,0,2
+40018,Brown leather jackets,1649.0,Men,Winter,Starnine,Jackets,0.4217741935483871,8,4,0,2,2
+40019,Black Fur Jackets,1250.0,Men,Winter,Starnine,Jackets,0.31451612903225806,8,4,0,2,2
+40020,Grey mohair knit polo,890.0,Men,Winter,Starnine,Knitwear,0.21774193548387097,8,5,0,2,1
+40021,Vintage Leather jacket,1649.0,Men,Winter,Starnine,Jackets,0.4217741935483871,8,4,0,2,2
+40022,Polo Stitched 3D Puff Embroidery,700.0,Men,Summer,Starnine,Polo,0.16666666666666666,8,7,0,1,1
+40023,Basic Polo Regular Fit,700.0,Men,Summer,Starnine,Polo,0.16666666666666666,8,7,0,1,1
+40024,Basic Polo Regular Fit,700.0,Men,Summer,Starnine,Polo,0.16666666666666666,8,7,0,1,1
+40025,Crime Life Stitched T-Shirt,650.0,Men,Summer,Starnine,T-Shirts,0.1532258064516129,8,13,0,1,1
+40026,Crime Life Stitched T-Shirt,650.0,Men,Summer,Starnine,T-Shirts,0.1532258064516129,8,13,0,1,1
+40027,3D ???Chaos??? stitched T-Shirt,650.0,Men,Summer,Starnine,T-Shirts,0.1532258064516129,8,13,0,1,1
+40028,3D ???Chaos??? stitched T-Shirt,650.0,Men,Summer,Starnine,T-Shirts,0.1532258064516129,8,13,0,1,1
+40029,Self Love Puff Printed T-Shirt,650.0,Men,Summer,Starnine,T-Shirts,0.1532258064516129,8,13,0,1,1
+40030,Self Love Puff Printed T-Shirt,650.0,Men,Summer,Starnine,T-Shirts,0.1532258064516129,8,13,0,1,1
+40031,3D ???Rich??? stitched T-Shirt,650.0,Men,Summer,Starnine,T-Shirts,0.1532258064516129,8,13,0,1,1
+40032,3D ???Rich??? stitched T-Shirt,650.0,Men,Summer,Starnine,T-Shirts,0.1532258064516129,8,13,0,1,1
+40033,3D ???Chaotic??? stitched T-Shirt,650.0,Men,Summer,Starnine,T-Shirts,0.1532258064516129,8,13,0,1,1
+40034,3D ???Chaotic??? stitched T-Shirt,650.0,Men,Summer,Starnine,T-Shirts,0.1532258064516129,8,13,0,1,1
+40035,Black line zip up,990.0,Men,Winter,Starnine,Sweatshirts,0.2446236559139785,8,12,0,2,2
+40036,Black line zip up,990.0,Men,Winter,Starnine,Sweatshirts,0.2446236559139785,8,12,0,2,2
+40037,Grey puff printed zipup,990.0,Men,Winter,Starnine,Sweatshirts,0.2446236559139785,8,12,0,2,2
+40038,Grey puff printed zipup,990.0,Men,Winter,Starnine,Sweatshirts,0.2446236559139785,8,12,0,2,2
+40039,Aura handsprayed zipup,990.0,Men,Winter,Starnine,Sweatshirts,0.2446236559139785,8,12,0,2,2
+40040,Aura handsprayed zipup,990.0,Men,Winter,Starnine,Sweatshirts,0.2446236559139785,8,12,0,2,2
+40041,Chaotic stitched crewneck,890.0,Men,Winter,Starnine,Sweatshirts,0.21774193548387097,8,12,0,2,1
+40042,Chaotic stitched crewneck,890.0,Men,Winter,Starnine,Sweatshirts,0.21774193548387097,8,12,0,2,1
+40043,Dead performance stitched zipup,990.0,Men,Winter,Starnine,Sweatshirts,0.2446236559139785,8,12,0,2,2
+40044,Dead performance stitched zipup,990.0,Men,Winter,Starnine,Sweatshirts,0.2446236559139785,8,12,0,2,2
+40045,Excentred stitched zipup,990.0,Men,Winter,Starnine,Sweatshirts,0.2446236559139785,8,12,0,2,2
+40046,Excentred stitched zipup,990.0,Men,Winter,Starnine,Sweatshirts,0.2446236559139785,8,12,0,2,2
+40047,Black line sweatpants,900.0,Men,Winter,Starnine,Sweatpants,0.22043010752688172,8,11,0,2,1
+40048,Black line sweatpants,900.0,Men,Winter,Starnine,Sweatpants,0.22043010752688172,8,11,0,2,1
+40049,Baby blue puff printed zipup,990.0,Men,Winter,Starnine,Sweatshirts,0.2446236559139785,8,12,0,2,2
+40050,Baby blue puff printed zipup,990.0,Men,Winter,Starnine,Sweatshirts,0.2446236559139785,8,12,0,2,2
+40051,Black puff printed zipup,990.0,Men,Winter,Starnine,Sweatshirts,0.2446236559139785,8,12,0,2,2
+40052,Black puff printed zipup,990.0,Men,Winter,Starnine,Sweatshirts,0.2446236559139785,8,12,0,2,2
+40053,Black mohair knit polo,890.0,Men,Winter,Starnine,Knitwear,0.21774193548387097,8,5,0,2,1
+40054,Black mohair knit polo,890.0,Men,Winter,Starnine,Knitwear,0.21774193548387097,8,5,0,2,1
+40055,Beige mohair knit polo,890.0,Men,Winter,Starnine,Knitwear,0.21774193548387097,8,5,0,2,1
+40056,Beige mohair knit polo,890.0,Men,Winter,Starnine,Knitwear,0.21774193548387097,8,5,0,2,1
+40057,Brown Knitted quarter zipper,850.0,Unisex,Winter,Starnine,Knitwear,0.20698924731182797,8,5,1,2,1
+40058,Brown Knitted quarter zipper,850.0,Unisex,Winter,Starnine,Knitwear,0.20698924731182797,8,5,1,2,1
+40059,Black knitted quarter zipper,850.0,Unisex,Winter,Starnine,Knitwear,0.20698924731182797,8,5,1,2,1
+40060,Black knitted quarter zipper,850.0,Unisex,Winter,Starnine,Knitwear,0.20698924731182797,8,5,1,2,1
+40061,Embroidered Sweats,899.0,Unisex,All Season,Svg,T-Shirts,0.22016129032258064,9,13,1,0,1
+40062,Embroidered Sweats,899.0,Unisex,All Season,Svg,T-Shirts,0.22016129032258064,9,13,1,0,1
+40063,Embroidered Sweats,899.0,Unisex,All Season,Svg,T-Shirts,0.22016129032258064,9,13,1,0,1
+40064,Embroidered Sweats,899.0,Unisex,All Season,Svg,T-Shirts,0.22016129032258064,9,13,1,0,1
+40065,Zipped Embroidered Hoodie,1049.0,Men,Winter,Svg,Hoodies,0.26048387096774195,9,3,0,2,2
+40066,Zipped Embroidered Hoodie,1049.0,Men,Winter,Svg,Hoodies,0.26048387096774195,9,3,0,2,2
+40067,Zipped Embroidered Hoodie,1049.0,Men,Winter,Svg,Hoodies,0.26048387096774195,9,3,0,2,2
+40068,Zipped Embroidered Hoodie,1049.0,Men,Winter,Svg,Hoodies,0.26048387096774195,9,3,0,2,2
+40069,Baggy Washed Jeans,1149.0,Unisex,All Season,Svg,Denim,0.28736559139784945,9,1,1,0,2
+40070,Baggy Washed Jeans,1149.0,Unisex,All Season,Svg,Denim,0.28736559139784945,9,1,1,0,2
+40071,Baggy Washed Jeans,1149.0,Unisex,All Season,Svg,Denim,0.28736559139784945,9,1,1,0,2
+40072,Baggy Washed Jeans,1149.0,Unisex,All Season,Svg,Denim,0.28736559139784945,9,1,1,0,2
+40073,Embroidered Sweatshirt,899.0,Men,Winter,Svg,Sweatshirts,0.22016129032258064,9,12,0,2,1
+40074,Embroidered Hoodie,949.0,Men,Winter,Svg,Hoodies,0.23360215053763442,9,3,0,2,2
+40075,Embroidered Hoodie,949.0,Men,Winter,Svg,Hoodies,0.23360215053763442,9,3,0,2,2
+40076,Embroidered Hoodie,949.0,Men,Winter,Svg,Hoodies,0.23360215053763442,9,3,0,2,2
+40077,Long sleeve Tank,449.0,Unisex,Summer,Svg,Tops,0.09919354838709678,9,14,1,1,1
+40078,Long sleeve Tank,449.0,Unisex,Summer,Svg,Tops,0.09919354838709678,9,14,1,1,1
+40079,Carpenter Jacket,1199.0,Men,Winter,Svg,Jackets,0.3008064516129032,9,4,0,2,2
+40080,Carpenter Jacket,1199.0,Men,Winter,Svg,Jackets,0.3008064516129032,9,4,0,2,2
+40081,Carpenter Jacket,1199.0,Men,Winter,Svg,Jackets,0.3008064516129032,9,4,0,2,2
+40082,Relaxed Chino Pants,1149.0,Unisex,All Season,Svg,Pants,0.28736559139784945,9,6,1,0,2
+40083,Relaxed Chino Pants,1149.0,Unisex,All Season,Svg,Pants,0.28736559139784945,9,6,1,0,2
+40084,Relaxed Chino Pants,1149.0,Unisex,All Season,Svg,Pants,0.28736559139784945,9,6,1,0,2
+40085,Embroidered Sweatshirt,899.0,Men,Winter,Svg,Sweatshirts,0.22016129032258064,9,12,0,2,1
+40086,Embroidered Sweatshirt,899.0,Men,Winter,Svg,Sweatshirts,0.22016129032258064,9,12,0,2,1
+40087,Baggy Raw Jeans,999.0,Unisex,All Season,Svg,Denim,0.24704301075268817,9,1,1,0,2
+40088,Baggy Raw Jeans,999.0,Unisex,All Season,Svg,Denim,0.24704301075268817,9,1,1,0,2
+40089,Relaxed Washed Jeans,1149.0,Unisex,All Season,Svg,Denim,0.28736559139784945,9,1,1,0,2
+40090,Relaxed Washed Jeans,1149.0,Unisex,All Season,Svg,Denim,0.28736559139784945,9,1,1,0,2
+40091,Relaxed Washed Jeans,1149.0,Unisex,All Season,Svg,Denim,0.28736559139784945,9,1,1,0,2
+40092,Relaxed Washed Jeans,1149.0,Unisex,All Season,Svg,Denim,0.28736559139784945,9,1,1,0,2
+40093,Embroidered Hoodie,949.0,Men,Winter,Svg,Hoodies,0.23360215053763442,9,3,0,2,2
+40094,Embroidered Hoodie,949.0,Men,Winter,Svg,Hoodies,0.23360215053763442,9,3,0,2,2
+40095,Gem Tee,899.0,Men,Summer,Svg,T-Shirts,0.22016129032258064,9,13,0,1,1
+40096,Plain Tee,899.0,Men,Summer,Svg,T-Shirts,0.22016129032258064,9,13,0,1,1
+40097,Carpenter Jacket,1199.0,Men,Winter,Svg,Jackets,0.3008064516129032,9,4,0,2,2
+40098,Relaxed Chino Pants,1149.0,Unisex,All Season,Svg,Pants,0.28736559139784945,9,6,1,0,2
+40099,Baggy Raw Jeans,999.0,Unisex,All Season,Svg,Denim,0.24704301075268817,9,1,1,0,2
+40100,Relaxed Washed Jeans,1149.0,Unisex,All Season,Svg,Denim,0.28736559139784945,9,1,1,0,2
+40101,Embroidered Sweatshirt,899.0,Men,Winter,Svg,Sweatshirts,0.22016129032258064,9,12,0,2,1
+40102,Embroidered Hoodie,949.0,Men,Winter,Svg,Hoodies,0.23360215053763442,9,3,0,2,2
+40103,Stamped Shorts,399.0,Unisex,Summer,Svg,Shorts,0.08575268817204301,9,9,1,1,0
+40104,Handwritten Pants,1299.0,Unisex,All Season,Svg,Pants,0.32768817204301076,9,6,1,0,2
+40105,Secret-zipper Pants,1599.0,Unisex,All Season,Svg,Pants,0.4083333333333333,9,6,1,0,2
+40106,Desert Zircon Tee,399.0,Men,Summer,Svg,T-Shirts,0.08575268817204301,9,13,0,1,0
+40107,Cloudy Shirt,499.0,Unisex,All Season,Svg,T-Shirts,0.11263440860215054,9,13,1,0,1
+40108,Bombast Tee,399.0,Men,Summer,Svg,T-Shirts,0.08575268817204301,9,13,0,1,0
+40109,Bombast Tee,399.0,Men,Summer,Svg,T-Shirts,0.08575268817204301,9,13,0,1,0
+40110,Brown Long Sleeve Round Top,270.0,Women,All Season,Seemly,Tops,0.051075268817204304,7,14,2,0,0
+40111,Dark Green Long Sleeve Round Top,270.0,Women,All Season,Seemly,Tops,0.051075268817204304,7,14,2,0,0
+40112,Burgundy Long Sleeve Round Top,270.0,Women,All Season,Seemly,Tops,0.051075268817204304,7,14,2,0,0
+40113,Navy Blue Long Sleeve Round Top,270.0,Women,All Season,Seemly,Tops,0.051075268817204304,7,14,2,0,0
+40114,Olive Green Long Sleeve Round Top,270.0,Women,All Season,Seemly,Tops,0.051075268817204304,7,14,2,0,0
+40115,Beige Long Sleeve Round Top,270.0,Women,All Season,Seemly,Tops,0.051075268817204304,7,14,2,0,0
+40116,Light Grey Long Sleeve Round Top,270.0,Women,All Season,Seemly,Tops,0.051075268817204304,7,14,2,0,0
+40117,Dark Grey Long Sleeve Round Top,270.0,Women,All Season,Seemly,Tops,0.051075268817204304,7,14,2,0,0
+40118,Pink Long Sleeve Round Top,270.0,Women,All Season,Seemly,Tops,0.051075268817204304,7,14,2,0,0
+40119,White Long Sleeve Round Top,270.0,Women,All Season,Seemly,Tops,0.051075268817204304,7,14,2,0,0
+40120,Black Long Sleeve Round Top,270.0,Women,All Season,Seemly,Tops,0.051075268817204304,7,14,2,0,0
+40121,Olive Sweatshirt,700.0,Men,Winter,Seemly,Sweatshirts,0.16666666666666666,7,12,0,2,1
+40122,Beige Sweatshirt,700.0,Men,Winter,Seemly,Sweatshirts,0.16666666666666666,7,12,0,2,1
+40123,Burgundy Sweatshirt,700.0,Men,Winter,Seemly,Sweatshirts,0.16666666666666666,7,12,0,2,1
+40124,Brown Sweatshirt,700.0,Men,Winter,Seemly,Sweatshirts,0.16666666666666666,7,12,0,2,1
+40125,Navy Blue Sweatshirt,700.0,Men,Winter,Seemly,Sweatshirts,0.16666666666666666,7,12,0,2,1
+40126,Light Grey Sweatshirt,700.0,Men,Winter,Seemly,Sweatshirts,0.16666666666666666,7,12,0,2,1
+40127,Dark Grey Sweatshirt,700.0,Men,Winter,Seemly,Sweatshirts,0.16666666666666666,7,12,0,2,1
+40128,Pink Sweatshirt,700.0,Men,Winter,Seemly,Sweatshirts,0.16666666666666666,7,12,0,2,1
+40129,White Sweatshirt,700.0,Men,Winter,Seemly,Sweatshirts,0.16666666666666666,7,12,0,2,1
+40130,BLACK CREW NECK,550.0,Men,Winter,KNTD,Sweatshirts,0.12634408602150538,5,12,0,2,1
+40131,Brown Q-zip,600.0,Men,Winter,Seemly,Sweatshirts,0.13978494623655913,7,12,0,2,1
+40132,Olive Q-zip,600.0,Men,Winter,Seemly,Sweatshirts,0.13978494623655913,7,12,0,2,1
+40133,Burgundy Q-zip,600.0,Men,Winter,Seemly,Sweatshirts,0.13978494623655913,7,12,0,2,1
+40134,Navy Q-zip,600.0,Men,Winter,Seemly,Sweatshirts,0.13978494623655913,7,12,0,2,1
+40135,Beige Q-zip,600.0,Men,Winter,Seemly,Sweatshirts,0.13978494623655913,7,12,0,2,1
+40136,Dark Grey Q-zip,600.0,Men,Winter,Seemly,Sweatshirts,0.13978494623655913,7,12,0,2,1
+40137,Pink Q-zip,600.0,Men,Winter,Seemly,Sweatshirts,0.13978494623655913,7,12,0,2,1
+40138,White Q-zip,600.0,Men,Winter,Seemly,Sweatshirts,0.13978494623655913,7,12,0,2,1
+40139,Black Q-zip,600.0,Men,Winter,Seemly,Sweatshirts,0.13978494623655913,7,12,0,2,1
+40140,Beige Baby Hoodie,520.0,Women,Winter,Seemly,Hoodies,0.11827956989247312,7,3,2,2,1
+40141,Brown Baby Hoodie,520.0,Women,Winter,Seemly,Hoodies,0.11827956989247312,7,3,2,2,1
+40142,Navy Blue Baby Hoodie,520.0,Women,Winter,Seemly,Hoodies,0.11827956989247312,7,3,2,2,1
+40143,Light Grey Baby Hoodie,520.0,Women,Winter,Seemly,Hoodies,0.11827956989247312,7,3,2,2,1
+40144,Dark Grey Baby Hoodie,520.0,Women,Winter,Seemly,Hoodies,0.11827956989247312,7,3,2,2,1
+40145,Pink Baby Hoodie,520.0,Women,Winter,Seemly,Hoodies,0.11827956989247312,7,3,2,2,1
+40146,White Baby Hoodie,520.0,Women,Winter,Seemly,Hoodies,0.11827956989247312,7,3,2,2,1
+40147,Black Baby Hoodie,520.0,Women,Winter,Seemly,Hoodies,0.11827956989247312,7,3,2,2,1
+40148,Beige Baby Zip Up,580.0,Women,Winter,Seemly,Sweatshirts,0.13440860215053763,7,12,2,2,1
+40149,Brown Baby Zip Up,580.0,Women,Winter,Seemly,Sweatshirts,0.13440860215053763,7,12,2,2,1
+40150,Navy Blue Baby Zip Up,580.0,Women,Winter,Seemly,Sweatshirts,0.13440860215053763,7,12,2,2,1
+40151,Light Grey Baby Zip Up,580.0,Women,Winter,Seemly,Sweatshirts,0.13440860215053763,7,12,2,2,1
+40152,Dark Grey Baby Zip Up,580.0,Women,Winter,Seemly,Sweatshirts,0.13440860215053763,7,12,2,2,1
+40153,Pink Baby Zip Up,580.0,Women,Winter,Seemly,Sweatshirts,0.13440860215053763,7,12,2,2,1
+40154,White Baby Zip Up,580.0,Women,Winter,Seemly,Sweatshirts,0.13440860215053763,7,12,2,2,1
+40155,Black Baby Zip Up,580.0,Women,Winter,Seemly,Sweatshirts,0.13440860215053763,7,12,2,2,1
+40156,Yellow Off Shoulder,570.0,Women,Summer,Seemly,Tops,0.13172043010752688,7,14,2,1,1
+40157,Burgundy Off Shoulder,570.0,Women,Summer,Seemly,Tops,0.13172043010752688,7,14,2,1,1
+40158,Brown Off Shoulder,570.0,Women,Summer,Seemly,Tops,0.13172043010752688,7,14,2,1,1
+40159,Navy Blue Off Shoulder,570.0,Women,Summer,Seemly,Tops,0.13172043010752688,7,14,2,1,1
+40160,Light Grey Off Shoulder,570.0,Women,Summer,Seemly,Tops,0.13172043010752688,7,14,2,1,1
+40161,Dark Grey Off Shoulder,570.0,Women,Summer,Seemly,Tops,0.13172043010752688,7,14,2,1,1
+40162,Pink Off Shoulder,570.0,Women,Summer,Seemly,Tops,0.13172043010752688,7,14,2,1,1
+40163,White Off Shoulder,570.0,Women,Summer,Seemly,Tops,0.13172043010752688,7,14,2,1,1
+40164,Black Off Shoulder,570.0,Women,Summer,Seemly,Tops,0.13172043010752688,7,14,2,1,1
+40165,Light Olive Basic Hoodie,520.0,Men,Winter,Seemly,Hoodies,0.11827956989247312,7,3,0,2,1
+40166,Burgundy Basic Hoodie,520.0,Men,Winter,Seemly,Hoodies,0.11827956989247312,7,3,0,2,1
+40167,Yellow Basic Hoodie,520.0,Men,Winter,Seemly,Hoodies,0.11827956989247312,7,3,0,2,1
+40168,Brown Basic Hoodie,520.0,Men,Winter,Seemly,Hoodies,0.11827956989247312,7,3,0,2,1
+40169,Navy Basic Hoodie,520.0,Men,Winter,Seemly,Hoodies,0.11827956989247312,7,3,0,2,1
+40170,Green Basic Hoodie,520.0,Men,Winter,Seemly,Hoodies,0.11827956989247312,7,3,0,2,1
+40171,Beige Basic Hoodie,520.0,Men,Winter,Seemly,Hoodies,0.11827956989247312,7,3,0,2,1
+40172,Light Grey Basic Hoodie,520.0,Men,Winter,Seemly,Hoodies,0.11827956989247312,7,3,0,2,1
+40173,Dark Grey Basic Hoodie,520.0,Men,Winter,Seemly,Hoodies,0.11827956989247312,7,3,0,2,1
+40174,White Basic Hoodie,520.0,Men,Winter,Seemly,Hoodies,0.11827956989247312,7,3,0,2,1
+40175,Teal Blue Basic Hoodie,520.0,Men,Winter,Seemly,Hoodies,0.11827956989247312,7,3,0,2,1
+40176,Pink Basic Hoodie,520.0,Men,Winter,Seemly,Hoodies,0.11827956989247312,7,3,0,2,1
+40177,Charcoal Grey Basic Hoodie,520.0,Men,Winter,Seemly,Hoodies,0.11827956989247312,7,3,0,2,1
+40178,BLACK HOODIE,600.0,Men,Winter,KNTD,Hoodies,0.13978494623655913,5,3,0,2,1
+40179,Baby Blue Basic Hoodie,520.0,Men,Winter,Seemly,Hoodies,0.11827956989247312,7,3,0,2,1
+40180,Winter Olive Sweatpants,700.0,Men,Winter,Seemly,Sweatpants,0.16666666666666666,7,11,0,2,1
+40181,Winter Yellow Sweatpants,700.0,Men,Winter,Seemly,Sweatpants,0.16666666666666666,7,11,0,2,1
+40182,Winter Brown Sweatpants,700.0,Men,Winter,Seemly,Sweatpants,0.16666666666666666,7,11,0,2,1
+40183,Brown Long Sleeve Square Top,290.0,Women,Summer,Seemly,Tops,0.056451612903225805,7,14,2,1,0
+40184,Dark Green Long Sleeve Square Top,290.0,Women,Summer,Seemly,Tops,0.056451612903225805,7,14,2,1,0
+40185,Burgundy Long Sleeve Square Top,290.0,Women,Summer,Seemly,Tops,0.056451612903225805,7,14,2,1,0
+40186,Navy Blue Long Sleeve Square Top,290.0,Women,Summer,Seemly,Tops,0.056451612903225805,7,14,2,1,0
+40187,Olive Long Sleeve Square Top,290.0,Women,Summer,Seemly,Tops,0.056451612903225805,7,14,2,1,0
+40188,Beige Long Sleeve Square Top,290.0,Women,Summer,Seemly,Tops,0.056451612903225805,7,14,2,1,0
+40189,Dark Grey Long Sleeve Square Top,290.0,Women,Summer,Seemly,Tops,0.056451612903225805,7,14,2,1,0
+40190,Pink Long Sleeve Square Top,290.0,Women,Summer,Seemly,Tops,0.056451612903225805,7,14,2,1,0
+40191,Winter Navy Blue Sweatpants,700.0,Men,Winter,Seemly,Sweatpants,0.16666666666666666,7,11,0,2,1
+40192,Winter Dark Green Sweatpants,700.0,Men,Winter,Seemly,Sweatpants,0.16666666666666666,7,11,0,2,1
+40193,Winter Beige Sweatpants,700.0,Men,Winter,Seemly,Sweatpants,0.16666666666666666,7,11,0,2,1
+40194,Winter Light Grey Sweatpants,700.0,Men,Winter,Seemly,Sweatpants,0.16666666666666666,7,11,0,2,1
+40195,Winter Dark Grey Sweatpants,700.0,Men,Winter,Seemly,Sweatpants,0.16666666666666666,7,11,0,2,1
+40196,Light Grey Long Sleeve Square Top,290.0,Women,Summer,Seemly,Tops,0.056451612903225805,7,14,2,1,0
+40197,White Long Sleeve Square Top,290.0,Women,Summer,Seemly,Tops,0.056451612903225805,7,14,2,1,0
+40198,Black Long Sleeve Square Top,290.0,Women,Summer,Seemly,Tops,0.056451612903225805,7,14,2,1,0
+40199,Winter Teal Blue Sweatpants,700.0,Men,Winter,Seemly,Sweatpants,0.16666666666666666,7,11,0,2,1
+40200,Winter Pink Sweatpants,700.0,Men,Winter,Seemly,Sweatpants,0.16666666666666666,7,11,0,2,1
+40201,Winter Off White Sweatpants,700.0,Men,Winter,Seemly,Sweatpants,0.16666666666666666,7,11,0,2,1
+40202,Winter Charcoal Grey Sweatpants,700.0,Men,Winter,Seemly,Sweatpants,0.16666666666666666,7,11,0,2,1
+40203,Interlock summer pants- Black,665.0,Unisex,Summer,KNTD,Pants,0.15725806451612903,5,6,1,1,1
+40204,Winter Baby Blue Sweatpants,700.0,Men,Winter,Seemly,Sweatpants,0.16666666666666666,7,11,0,2,1
+40205,Women Light Grey Striped Tailor Pants,600.0,Women,All Season,Seemly,Pants,0.13978494623655913,7,6,2,0,1
+40206,Women Dark Grey Striped Tailor Pants,600.0,Women,All Season,Seemly,Pants,0.13978494623655913,7,6,2,0,1
+40207,Women Light Grey Tailor Pants,600.0,Women,All Season,Seemly,Pants,0.13978494623655913,7,6,2,0,1
+40208,Women Black Tailor Pants,600.0,Women,All Season,Seemly,Pants,0.13978494623655913,7,6,2,0,1
+40209,Men Light Grey Striped Tailor Pants,600.0,Unisex,All Season,Seemly,Pants,0.13978494623655913,7,6,1,0,1
+40210,Men Dark Grey Striped Tailor Pants,600.0,Unisex,All Season,Seemly,Pants,0.13978494623655913,7,6,1,0,1
+40211,Men Light Grey Tailor Pants,600.0,Unisex,All Season,Seemly,Pants,0.13978494623655913,7,6,1,0,1
+40212,Men Black Tailor Pants,600.0,Unisex,All Season,Seemly,Pants,0.13978494623655913,7,6,1,0,1
+40213,Grey Yoga Pants,300.0,Unisex,All Season,Seemly,Pants,0.05913978494623656,7,6,1,0,0
+40214,Black Yoga Pants,300.0,Unisex,All Season,Seemly,Pants,0.05913978494623656,7,6,1,0,0
+40215,Navy Blue Basic T-Shirt,220.0,Men,Summer,Seemly,T-Shirts,0.03763440860215054,7,13,0,1,0
+40216,Pink Basic T-Shirt,220.0,Men,Summer,Seemly,T-Shirts,0.03763440860215054,7,13,0,1,0
+40217,Dark Grey Basic T-Shirt,220.0,Men,Summer,Seemly,T-Shirts,0.03763440860215054,7,13,0,1,0
+40218,Off-White Basic T-Shirt,220.0,Men,Summer,Seemly,T-Shirts,0.03763440860215054,7,13,0,1,0
+40219,Everyday Textured T-shirt - Black,500.0,Men,Summer,KNTD,T-Shirts,0.11290322580645161,5,13,0,1,1
+40220,Olive Green Basic T-Shirt,220.0,Men,Summer,Seemly,T-Shirts,0.03763440860215054,7,13,0,1,0
+40221,Light Grey Spaghetti Top,99.0,Women,Summer,Seemly,Tops,0.00510752688172043,7,14,2,1,0
+40222,White Spaghetti Top,99.0,Women,Summer,Seemly,Tops,0.00510752688172043,7,14,2,1,0
+40223,Black Spaghetti Top,99.0,Women,Summer,Seemly,Tops,0.00510752688172043,7,14,2,1,0
+40224,Royal Blue Cut Top,220.0,Women,Summer,Seemly,Tops,0.03763440860215054,7,14,2,1,0
+40225,Light Grey Cut Top,220.0,Women,Summer,Seemly,Tops,0.03763440860215054,7,14,2,1,0
+40226,Olive Green Cut Top,220.0,Women,Summer,Seemly,Tops,0.03763440860215054,7,14,2,1,0
+40227,Navy Blue Cut Top,220.0,Women,Summer,Seemly,Tops,0.03763440860215054,7,14,2,1,0
+40228,Pink Cut Top,220.0,Women,Summer,Seemly,Tops,0.03763440860215054,7,14,2,1,0
+40229,Burgundy Cut Top,220.0,Women,Summer,Seemly,Tops,0.03763440860215054,7,14,2,1,0
+40230,Off-White Cut Top,220.0,Women,Summer,Seemly,Tops,0.03763440860215054,7,14,2,1,0
+40231,Black Cut Top,220.0,Women,Summer,Seemly,Tops,0.03763440860215054,7,14,2,1,0
+40232,Royal Blue Square Top,220.0,Women,Summer,Seemly,Tops,0.03763440860215054,7,14,2,1,0
+40233,Light Grey Square Top,220.0,Women,Summer,Seemly,Tops,0.03763440860215054,7,14,2,1,0
+40234,Olive Green Square Top,220.0,Women,Summer,Seemly,Tops,0.03763440860215054,7,14,2,1,0
+40235,Navy Blue Square Top,220.0,Women,Summer,Seemly,Tops,0.03763440860215054,7,14,2,1,0
+40236,Burgundy Square Top,220.0,Women,Summer,Seemly,Tops,0.03763440860215054,7,14,2,1,0
+40237,Off-White Square Top,220.0,Women,Summer,Seemly,Tops,0.03763440860215054,7,14,2,1,0
+40238,Black Square Top,220.0,Women,Summer,Seemly,Tops,0.03763440860215054,7,14,2,1,0
+40239,Washed Grey Round Neck Top,210.0,Women,Summer,Seemly,Tops,0.03494623655913978,7,14,2,1,0
+40240,Yellow Round Neck Top,210.0,Women,Summer,Seemly,Tops,0.03494623655913978,7,14,2,1,0
+40241,Off-White Round Neck Top,210.0,Women,Summer,Seemly,Tops,0.03494623655913978,7,14,2,1,0
+40242,Olive Green Round Neck Top,210.0,Women,Summer,Seemly,Tops,0.03494623655913978,7,14,2,1,0
+40243,Black Round Neck Top,210.0,Women,Summer,Seemly,Tops,0.03494623655913978,7,14,2,1,0
+40244,Pink Round Neck Top,210.0,Women,Summer,Seemly,Tops,0.03494623655913978,7,14,2,1,0
+40245,Light Grey Round Neck Top,210.0,Women,Summer,Seemly,Tops,0.03494623655913978,7,14,2,1,0
+40246,Dark Grey Round Neck Top,210.0,Women,Summer,Seemly,Tops,0.03494623655913978,7,14,2,1,0
+40247,Royal Blue Round Neck Top,210.0,Women,Summer,Seemly,Tops,0.03494623655913978,7,14,2,1,0
+40248,Burgundy Round Neck Top,210.0,Women,Summer,Seemly,Tops,0.03494623655913978,7,14,2,1,0
+40249,Navy Blue Round Neck Top,210.0,Women,Summer,Seemly,Tops,0.03494623655913978,7,14,2,1,0
+40250,Pink Square Top,220.0,Women,Summer,Seemly,Tops,0.03763440860215054,7,14,2,1,0
+40251,Dark Grey Spaghetti Top,99.0,Women,Summer,Seemly,Tops,0.00510752688172043,7,14,2,1,0
+40252,Pink Spaghetti Top,99.0,Women,Summer,Seemly,Tops,0.00510752688172043,7,14,2,1,0
+40253,Royal Blue Basic T-Shirt,220.0,Men,Summer,Seemly,T-Shirts,0.03763440860215054,7,13,0,1,0
+40254,Washed Grey Basic T-Shirt,220.0,Men,Summer,Seemly,T-Shirts,0.03763440860215054,7,13,0,1,0
+40255,"Black ""Wahet Cleopatra""",600.0,Unisex,All Season,Antikka,T-Shirts,0.13978494623655913,0,13,1,0,1
+40256,Black Reg3na 3eyal Hoodie,790.0,Men,Winter,Antikka,Hoodies,0.19086021505376344,0,3,0,2,1
+40257,Grey Oversized T,750.0,Men,All Season,Antikka,T-Shirts,0.18010752688172044,0,13,0,0,1
+40258,Black Queen of Hearts Tee,750.0,Men,Summer,Antikka,T-Shirts,0.18010752688172044,0,13,0,1,1
+40259,White Malek Farouk Tee,750.0,Men,Summer,Antikka,T-Shirts,0.18010752688172044,0,13,0,1,1
+40260,Orange Oversized Tee,650.0,Men,Summer,Antikka,T-Shirts,0.1532258064516129,0,13,0,1,1
+40261,Black Queen of Hearts T-Shirt,700.0,Men,Summer,Antikka,T-Shirts,0.16666666666666666,0,13,0,1,1
+40262,White Malek Farouk Tee,550.0,Men,Summer,Antikka,T-Shirts,0.12634408602150538,0,13,0,1,1
+40263,The Charcoal Nefertiti Hoodie,920.0,Men,Winter,Antikka,Hoodies,0.22580645161290322,0,3,0,2,2
+40264,The Mint Abou ElHaul Hoodie,920.0,Men,Winter,Antikka,Hoodies,0.22580645161290322,0,3,0,2,2
+40265,The Emerald Green Cairo Hoodie,920.0,Men,Winter,Antikka,Hoodies,0.22580645161290322,0,3,0,2,2
+40266,The Black Queen of Hearts Hoodie,950.0,Men,Winter,Antikka,Hoodies,0.23387096774193547,0,3,0,2,2
+40267,The White Cleopatra Hoodie,920.0,Men,Winter,Antikka,Hoodies,0.22580645161290322,0,3,0,2,2
+40268,Charcoal Cargo Sweats,690.0,Men,Winter,Antikka,Sweatpants,0.1639784946236559,0,11,0,2,1
+40269,Mint Cargo Sweats,600.0,Men,Winter,Antikka,Sweatpants,0.13978494623655913,0,11,0,2,1
+40270,Emerald Green Sweatpants,600.0,Men,Winter,Antikka,Sweatpants,0.13978494623655913,0,11,0,2,1
+40271,White Sweatpants,600.0,Men,Winter,Antikka,Sweatpants,0.13978494623655913,0,11,0,2,1
+40272,Black Sweatpants,600.0,Men,Winter,Antikka,Sweatpants,0.13978494623655913,0,11,0,2,1
+40273,Black Cargo Sweats,690.0,Men,Winter,Antikka,Sweatpants,0.1639784946236559,0,11,0,2,1
+40274,Red Alfenat Technology Hoodie,920.0,Men,Winter,Antikka,Hoodies,0.22580645161290322,0,3,0,2,2
+40275,Double Waisted Denim Jeans,790.0,Men,All Season,Antikka,Denim,0.19086021505376344,0,1,0,0,1
+40276,Black Reg3na 3eyal Hoodie Kids,920.0,Men,Winter,Antikka,Hoodies,0.22580645161290322,0,3,0,2,2
+40277,Red Alfenat Technology Hoodie Kids,920.0,Men,Winter,Antikka,Hoodies,0.22580645161290322,0,3,0,2,2
+40278,Lilac ???Arsh Khufu???,600.0,Unisex,All Season,Antikka,T-Shirts,0.13978494623655913,0,13,1,0,1
+40279,Baby Blue ???Hamam Titi???,750.0,Unisex,All Season,Antikka,T-Shirts,0.18010752688172044,0,13,1,0,1
+40280,White Baby Tee,360.0,Women,Summer,Antikka,T-Shirts,0.07526881720430108,0,13,2,1,0
+40281,Grey Baby Tee,360.0,Women,Summer,Antikka,T-Shirts,0.07526881720430108,0,13,2,1,0
+40282,Pink Baby Tee,360.0,Women,Summer,Antikka,T-Shirts,0.07526881720430108,0,13,2,1,0
+40283,"Beige ""Scattered`' Crew Neck",760.0,Men,Winter,Antikka,Sweatshirts,0.1827956989247312,0,12,0,2,1
+40284,"Olive ""David`' Crew Neck",760.0,Men,Winter,Antikka,Sweatshirts,0.1827956989247312,0,12,0,2,1
+40285,"Black ""Medusa"" Hoodie",790.0,Men,Winter,Antikka,Hoodies,0.19086021505376344,0,3,0,2,1
+40286,Black Wide Leg Pants,640.0,Men,Winter,Antikka,Pants,0.15053763440860216,0,6,0,2,1
+40287,Olive Wide Leg Pants,640.0,Men,Winter,Antikka,Pants,0.15053763440860216,0,6,0,2,1
+40288,Beige Wide Leg Pants,640.0,Men,Winter,Antikka,Pants,0.15053763440860216,0,6,0,2,1
+40289,The White ???Lobster O???Clock??? Tee,750.0,Men,Summer,Antikka,T-Shirts,0.18010752688172044,0,13,0,1,1
+40290,The Black ???Taverna??? Tee,750.0,Men,Summer,Antikka,T-Shirts,0.18010752688172044,0,13,0,1,1
+40291,The Off-White ???Sardine Tales??? Tee,750.0,Men,Summer,Antikka,T-Shirts,0.18010752688172044,0,13,0,1,1
+40292,The Baby Blue ???Paralia??? Tee,750.0,Men,Summer,Antikka,T-Shirts,0.18010752688172044,0,13,0,1,1
+40293,THE ASILI PARISIAN COCONUT JACKET,1070.0,Men,Winter,Asili,Jackets,0.2661290322580645,1,4,0,2,2
+40294,THE ASILI MULTI-POCKET COCONUT PANTS,950.0,Unisex,All Season,Asili,Pants,0.23387096774193547,1,6,1,0,2
+40295,THE ASILI PARISIAN COCONUT SET,1850.0,Unisex,All Season,Asili,Sets,0.47580645161290325,1,8,1,0,2
+40302,THE ASILI MIGHTY BAGGY JEANS IN BLACKK,920.0,Men,All Season,Asili,Denim,0.22580645161290322,1,1,0,0,2
+40303,THE ASILI MIGHTY BAGGY JEANS IN BLUE,920.0,Men,All Season,Asili,Denim,0.22580645161290322,1,1,0,0,2
+40304,THE ASILI DUO ZIPPER JEANS,940.0,Unisex,All Season,Asili,Denim,0.23118279569892472,1,1,1,0,2
+40306,PRE-ORDER (HABAYTAK BL SHETA) -?????????? ?????????????? Hoodie DROP,960.0,Men,Winter,Asili,Hoodies,0.23655913978494625,1,3,0,2,2
+40307,[PRE-ORDER] The AL ALIS Hoodie Drop,920.0,Men,Winter,Asili,Hoodies,0.22580645161290322,1,3,0,2,2
+40308,[PRE-ORDER] The Nefertiti Beyonc?? Drop,940.0,Unisex,All Season,Asili,T-Shirts,0.23118279569892472,1,13,1,0,2
+40310,MAMA THINKS YOU???RE BORING HOODIE DROP,950.0,Men,Winter,Asili,Hoodies,0.23387096774193547,1,3,0,2,2
+40311,The Lady Lisa Drop,890.0,Unisex,All Season,Asili,T-Shirts,0.21774193548387097,1,13,1,0,1
+40312,PRE-ORDER THE ASILI BLING BLING HOODIE DROP,980.0,Men,Winter,Asili,Hoodies,0.24193548387096775,1,3,0,2,2
+40313,The Benjamin Franklin Drop,890.0,Unisex,All Season,Asili,T-Shirts,0.21774193548387097,1,13,1,0,1
+40314,THE ASILI PATCH T-SHIRT IN WASHED GREY,730.0,Men,Summer,Asili,T-Shirts,0.17473118279569894,1,13,0,1,1
+40318,[PRE-ORDER] THE ATTENTION SEEKER TSHIRT,710.0,Unisex,All Season,Asili,T-Shirts,0.1693548387096774,1,13,1,0,1
+40319,[PRE-ORDER] THE QUESTIONING TSHIRT,710.0,Unisex,All Season,Asili,T-Shirts,0.1693548387096774,1,13,1,0,1
+40320,The Ghandi Polo T-Shirt,750.0,Men,Summer,Asili,Polo,0.18010752688172044,1,7,0,1,1
+40324,Basic Black Zip-Up Hoodie,600.0,Men,Winter,Blackedition,Hoodies,0.13978494623655913,3,3,0,2,1
+40325,Basic Black Baggy Sweatpants,550.0,Men,Winter,Blackedition,Sweatpants,0.12634408602150538,3,11,0,2,1
+40326,Basic Stone Baggy Sweatpants,550.0,Men,Winter,Blackedition,Sweatpants,0.12634408602150538,3,11,0,2,1
+40327,Basic Black Hoodie,550.0,Men,Winter,Blackedition,Hoodies,0.12634408602150538,3,3,0,2,1
+40328,Basic Stone Zip-Up Hoodie,600.0,Men,Winter,Blackedition,Hoodies,0.13978494623655913,3,3,0,2,1
+40329,Black zipper Leather jacket,1800.0,Men,Winter,NH Designs,Jackets,0.46236559139784944,6,4,0,2,2
+40330,V5 Leather Jacket - Deep Brown,1200.0,Men,Winter,Blackedition,Jackets,0.3010752688172043,3,4,0,2,2
+40331,V5 Leather Jacket - Forest Green,1200.0,Men,Winter,Blackedition,Jackets,0.3010752688172043,3,4,0,2,2
+40332,V5 Leather Jacket - Black,1200.0,Men,Winter,Blackedition,Jackets,0.3010752688172043,3,4,0,2,2
+40333,Basic Black Crewneck,550.0,Men,Winter,Blackedition,Sweatshirts,0.12634408602150538,3,12,0,2,1
+40334,Basic White Crewneck,550.0,Men,Winter,Blackedition,Sweatshirts,0.12634408602150538,3,12,0,2,1
+40335,Basic White Baggy Sweatpants,550.0,Men,Winter,Blackedition,Sweatpants,0.12634408602150538,3,11,0,2,1
+40336,Basic Stone Hoodie,550.0,Men,Winter,Blackedition,Hoodies,0.12634408602150538,3,3,0,2,1
+40337,Basic Stone Crewneck,550.0,Men,Winter,Blackedition,Sweatshirts,0.12634408602150538,3,12,0,2,1
+40338,Basic White Zip-Up Hoodie,600.0,Men,Winter,Blackedition,Hoodies,0.13978494623655913,3,3,0,2,1
+40339,Basic White Hoodie,550.0,Men,Winter,Blackedition,Hoodies,0.12634408602150538,3,3,0,2,1
+40340,Black Knitted Sweatshirt,650.0,Men,Winter,Blackedition,Sweatshirts,0.1532258064516129,3,12,0,2,1
+40341,Grey Knitted Sweatshirt,650.0,Men,Winter,Blackedition,Sweatshirts,0.1532258064516129,3,12,0,2,1
+40342,Think Twice Zip Up  - White,650.0,Men,Winter,Blackedition,Sweatshirts,0.1532258064516129,3,12,0,2,1
+40343,Basic Olive Zip-Up Hoodie,600.0,Men,Winter,Blackedition,Hoodies,0.13978494623655913,3,3,0,2,1
+40344,V5 Leather Jacket - Caramel,1200.0,Men,Winter,Blackedition,Jackets,0.3010752688172043,3,4,0,2,2
+40345,Basic Olive Hoodie,550.0,Men,Winter,Blackedition,Hoodies,0.12634408602150538,3,3,0,2,1
+40346,Basic Earth Hoodie,550.0,Men,Winter,Blackedition,Hoodies,0.12634408602150538,3,3,0,2,1
+40347,Black v44 sweatpants,800.0,Men,Winter,Blackedition,Sweatpants,0.1935483870967742,3,11,0,2,1
+40348,UNDIFINED SWEATPANTS,800.0,Men,Winter,Blackedition,Sweatpants,0.1935483870967742,3,11,0,2,1
+40349,Orange Summer Sweatpants,800.0,Men,Winter,Blackedition,Sweatpants,0.1935483870967742,3,11,0,2,1
+40350,Unisex Leather Pocket Sweatpants,600.0,Unisex,Winter,Blackedition,Sweatpants,0.13978494623655913,3,11,1,2,1
+40351,Unisex Denim Sweatpants,750.0,Unisex,Winter,Blackedition,Denim,0.18010752688172044,3,1,1,2,1
+40352,winter warning cargo sweatpants,750.0,Men,Winter,Blackedition,Sweatpants,0.18010752688172044,3,11,0,2,1
+40353,Project 203 Sweatpants,750.0,Men,Winter,Blackedition,Sweatpants,0.18010752688172044,3,11,0,2,1
+40354,warning sweatpants,800.0,Men,Winter,Blackedition,Sweatpants,0.1935483870967742,3,11,0,2,1
+40355,Project 202 Sweatpants,800.0,Men,Winter,Blackedition,Sweatpants,0.1935483870967742,3,11,0,2,1
+40356,Reflective Sweatpants,600.0,Men,Winter,Blackedition,Sweatpants,0.13978494623655913,3,11,0,2,1
+40357,Microfiber Fitted Long Sleeve Top,95.0,Unisex,All Season,Basiclook,Tops,0.004032258064516129,2,14,1,0,0
+40358,Ribbed Fitted Half Sleeve Top,140.0,Unisex,All Season,Basiclook,Knitwear,0.016129032258064516,2,5,1,0,0
+40359,Ribbed Thick Strap Crew Neck Top,140.0,Men,Winter,Basiclook,Sweatshirts,0.016129032258064516,2,12,0,2,0
+40360,Boxy Fit T-Shirt,395.0,Men,Summer,Basiclook,T-Shirts,0.0846774193548387,2,13,0,1,0
+40361,Ribbed Thick Strap Basic Top,140.0,Unisex,Summer,Basiclook,Knitwear,0.016129032258064516,2,5,1,1,0
+40362,Flared Pants,390.0,Unisex,All Season,Basiclook,Pants,0.08333333333333333,2,6,1,0,0
+40363,Long Socks Pack of 3,140.0,Unisex,All Season,Basiclook,Accessories,0.016129032258064516,2,0,1,0,0
+40364,Oversized T-Shirt,288.0,Men,Summer,Basiclook,T-Shirts,0.05591397849462366,2,13,0,1,0
+40365,Straight Leg Milton??? Pants,544.0,Unisex,All Season,Basiclook,Pants,0.12473118279569892,2,6,1,0,1
+40366,Flared Slit Pants,312.0,Unisex,All Season,Basiclook,Pants,0.06236559139784946,2,6,1,0,0
+40367,Basic Socks Pack of 3,120.0,Unisex,All Season,Basiclook,Accessories,0.010752688172043012,2,0,1,0,0
+40368,Baggy Sweatpants,580.0,Men,Winter,Basiclook,Sweatpants,0.13440860215053763,2,11,0,2,1
+40369,Long Socks Pack of 3 - Two Line,140.0,Unisex,All Season,Basiclook,Accessories,0.016129032258064516,2,0,1,0,0
+40370,Loose T-Shirt 1.0 Unisex,300.0,Unisex,Summer,Basiclook,T-Shirts,0.05913978494623656,2,13,1,1,0
+40371,Washed T-Shirt,304.0,Men,Summer,Basiclook,T-Shirts,0.060215053763440864,2,13,0,1,0
+40372,Straight Leg - Women,480.0,Women,All Season,Basiclook,T-Shirts,0.10752688172043011,2,13,2,0,1
+40373,Quarter Zip Milton??? Sweatshirt,533.0,Men,Winter,Basiclook,Sweatshirts,0.1217741935483871,2,12,0,2,1
+40374,Knit Set,960.0,Unisex,Winter,Basiclook,Sets,0.23655913978494625,2,8,1,2,2
+40375,Quarter Sleeve ComfortFlex??? Bodysuit,255.0,Unisex,All Season,Basiclook,T-Shirts,0.04704301075268817,2,13,1,0,0
+40376,Double Layer Half Sleeve ComfortFlex??? Top,217.5,Unisex,All Season,Basiclook,Tops,0.03696236559139785,2,14,1,0,0
+40377,Knitted Polo Sweatshirt,336.0,Men,Winter,Basiclook,Sweatshirts,0.06881720430107527,2,12,0,2,0
+40378,Cropped  Milton??? Jacket,468.0,Women,Winter,Basiclook,Jackets,0.1043010752688172,2,4,2,2,1
+40379,Cut ComfortFlex??? Top,195.0,Unisex,All Season,Basiclook,Tops,0.030913978494623656,2,14,1,0,0
+40380,Oversized  Milton??? Sweater,494.0,Men,All Season,Basiclook,Sweatshirts,0.11129032258064517,2,12,0,0,1
+40381,Loose T-shirt 2.0,330.0,Men,Summer,Basiclook,T-Shirts,0.06720430107526881,2,13,0,1,0
+40382,Straight Scuba??? Pants with Slit,448.0,Unisex,All Season,Basiclook,Pants,0.0989247311827957,2,6,1,0,1
+40383,Oversized Zipper Neck Milton??? Sweater,504.0,Men,All Season,Basiclook,Sweatshirts,0.11397849462365592,2,12,0,0,1
+40384,Long Sleeve ComfortFlex??? Bodysuit,230.0,Unisex,All Season,Basiclook,T-Shirts,0.04032258064516129,2,13,1,0,0
+40385,Oversized Women T-Shirt,336.0,Women,Summer,Basiclook,T-Shirts,0.06881720430107527,2,13,2,1,0
+40386,Oversized Scuba??? Hoodie,643.5,Men,Winter,Basiclook,Hoodies,0.15147849462365592,2,3,0,2,1
+40387,Long Sleeve Contour Top,133.0,Unisex,All Season,Basiclook,Tops,0.01424731182795699,2,14,1,0,0
+40388,No Show Socks Pack of 3,120.0,Unisex,All Season,Basiclook,Accessories,0.010752688172043012,2,0,1,0,0
+40389,Long Sleeve Top - Women,240.0,Women,All Season,Basiclook,Tops,0.043010752688172046,2,14,2,0,0
+40390,Flared Leggings Pants,320.0,Unisex,All Season,Basiclook,Pants,0.06451612903225806,2,6,1,0,0
+40391,Basic Milton??? Jacket,513.5,Men,Winter,Basiclook,Jackets,0.11653225806451613,2,4,0,2,1
+40392,Basic Milton??? Sweater,416.0,Unisex,All Season,Basiclook,Sweatshirts,0.09032258064516129,2,12,1,0,1
+40393,Wide Leg Textured Pants,280.0,Unisex,All Season,Basiclook,Pants,0.053763440860215055,2,6,1,0,0
+40394,Ruched Top,125.0,Unisex,All Season,Basiclook,Tops,0.012096774193548387,2,14,1,0,0
+40395,Spaghetti ComfortFlex??? Top,142.5,Unisex,All Season,Basiclook,Tops,0.016801075268817203,2,14,1,0,0
+40396,Cut ComfortFlex??? Bodysuit,217.5,Unisex,All Season,Basiclook,T-Shirts,0.03696236559139785,2,13,1,0,0
+40397,Basic Milton??? Hoodie,432.0,Men,Winter,Basiclook,Hoodies,0.09462365591397849,2,3,0,2,1
+40398,Leggings,340.0,Unisex,All Season,Basiclook,Pants,0.06989247311827956,2,6,1,0,0
+40399,Microfiber Fitted Half Sleeve Top,90.0,Unisex,All Season,Basiclook,Tops,0.002688172043010753,2,14,1,0,0
+40400,Long Sleeve ComfortFlex??? Top,217.5,Unisex,All Season,Basiclook,Tops,0.03696236559139785,2,14,1,0,0
+40401,Extended Neck Top,85.0,Unisex,All Season,Basiclook,Tops,0.0013440860215053765,2,14,1,0,0
+40402,Thick Strap ComfortFlex??? Top,217.5,Unisex,All Season,Basiclook,Tops,0.03696236559139785,2,14,1,0,0
+40403,Velvet Set,600.0,Unisex,All Season,Basiclook,Sets,0.13978494623655913,2,8,1,0,1
+40404,Fitted Knitted Top,225.0,Unisex,Winter,Basiclook,Knitwear,0.038978494623655914,2,5,1,2,0
+40405,Washed Straight Leg Pants,378.0,Unisex,All Season,Basiclook,Pants,0.08010752688172043,2,6,1,0,0
+40406,Women Shorts,190.0,Women,Summer,Basiclook,Shorts,0.02956989247311828,2,9,2,1,0
+40407,Off Shoulder Neck Top,90.0,Women,Summer,Basiclook,Tops,0.002688172043010753,2,14,2,1,0
+40408,Short Sleeve Contour Top,126.0,Unisex,Summer,Basiclook,Tops,0.012365591397849462,2,14,1,1,0
+40409,Knitted High Neck Sweater,230.0,Unisex,Winter,Basiclook,Sweatshirts,0.04032258064516129,2,12,1,2,0
+40410,Tricot Women's Plain T-shirt,210.0,Women,Summer,Basiclook,Knitwear,0.03494623655913978,2,5,2,1,0
+40411,Knitted High Neck,290.0,Unisex,Winter,Basiclook,Knitwear,0.056451612903225805,2,5,1,2,0
+40412,Long Sleeve Extended ComfortFlex??? T-shirt,230.0,Men,Summer,Basiclook,T-Shirts,0.04032258064516129,2,13,0,1,0
+40413,Quarter Zip Brushed Milton???,492.0,Unisex,All Season,Basiclook,T-Shirts,0.110752688172043,2,13,1,0,1
+40414,Slim Fit T-Shirt,290.0,Men,Summer,Basiclook,T-Shirts,0.056451612903225805,2,13,0,1,0
+40415,Comfort T-Shirt 2.0,340.0,Men,Summer,Basiclook,T-Shirts,0.06989247311827956,2,13,0,1,0
+40416,Men Scuba??? Pants,448.0,Unisex,All Season,Basiclook,Pants,0.0989247311827957,2,6,1,0,1
+40417,Long Sleeve T-Shirt,295.0,Men,Summer,Basiclook,T-Shirts,0.05779569892473118,2,13,0,1,0
+40418,Classic T-Shirt,312.0,Men,Summer,Basiclook,T-Shirts,0.06236559139784946,2,13,0,1,0
+40419,Heavy Weight Textured T-Shirt,238.0,Men,Summer,Basiclook,T-Shirts,0.04247311827956989,2,13,0,1,0
+40420,ComfortFlex??? T-shirt,292.5,Men,Summer,Basiclook,T-Shirts,0.05712365591397849,2,13,0,1,0
+40421,Straight Leg - Men,520.0,Unisex,All Season,Basiclook,T-Shirts,0.11827956989247312,2,13,1,0,1
+40422,Light Weight Textured T-shirt,196.0,Men,Summer,Basiclook,T-Shirts,0.03118279569892473,2,13,0,1,0
+40423,Scuba??? Jacket,643.5,Men,Winter,Basiclook,Jackets,0.15147849462365592,2,4,0,2,1
+40424,Polo T-Shirt,294.0,Men,Summer,Basiclook,Polo,0.057526881720430106,2,7,0,1,0
+40425,Cargo Sweatpants,399.0,Men,Winter,Basiclook,Sweatpants,0.08575268817204301,2,11,0,2,0
+40426,Towel T-Shirt,252.0,Men,Summer,Basiclook,T-Shirts,0.046236559139784944,2,13,0,1,0
+40427,Knitted Quarter Zip Polo T-Shirt,483.0,Men,Winter,Basiclook,Knitwear,0.10833333333333334,2,5,0,2,1
+40428,Boxers Pack of 3,240.0,Unisex,All Season,Basiclook,T-Shirts,0.043010752688172046,2,13,1,0,0
+40429,Brushed Milton??? Shorts,336.0,Unisex,Summer,Basiclook,Shorts,0.06881720430107527,2,9,1,1,0
+40430,Boxy Fit T-Shirt 2.0,195.0,Men,Summer,Basiclook,T-Shirts,0.030913978494623656,2,13,0,1,0
+40431,Ribbed Pants,343.0,Unisex,All Season,Basiclook,Knitwear,0.07069892473118279,2,5,1,0,0
+40432,Comfort T-Shirt,280.0,Men,Summer,Basiclook,T-Shirts,0.053763440860215055,2,13,0,1,0
+40433,Summer Shorts,165.0,Unisex,Summer,Basiclook,Shorts,0.0228494623655914,2,9,1,1,0
+40434,Comfort Brushed Milton??? Sweatpants,512.0,Men,Winter,Basiclook,Sweatpants,0.11612903225806452,2,11,0,2,1
+40435,Comfort Viscose T-Shirt,145.0,Men,Summer,Basiclook,T-Shirts,0.01747311827956989,2,13,0,1,0
+40436,Kids Basic Socks Pack of 3,90.0,Unisex,All Season,Basiclook,Accessories,0.002688172043010753,2,0,1,0,0
+40437,Kids Long Socks Pack of 3,110.0,Unisex,All Season,Basiclook,Accessories,0.008064516129032258,2,0,1,0,0
+40438,Kids Swim Shorts,110.0,Unisex,Summer,Basiclook,Shorts,0.008064516129032258,2,9,1,1,0
+40439,Kids T-Shirt Unisex,92.5,Unisex,Summer,Basiclook,T-Shirts,0.003360215053763441,2,13,1,1,0
+40440,Crew Neck Long Sleeve Rib,220.0,Men,Winter,Basiclook,Sweatshirts,0.03763440860215054,2,12,0,2,0
+40441,V-Neck Long Sleeve Rib,220.0,Unisex,All Season,Basiclook,T-Shirts,0.03763440860215054,2,13,1,0,0
+40442,Cropped Scuba??? Baseball Jacket,338.0,Women,Winter,Basiclook,Jackets,0.06935483870967742,2,4,2,2,0
+40443,Tricot With Zipper Shirt- White,900.0,Unisex,All Season,KNTD,Knitwear,0.22043010752688172,5,5,1,0,1
+40444,Tricot With Zipper Shirt- Sky Blue,900.0,Unisex,All Season,KNTD,Knitwear,0.22043010752688172,5,5,1,0,1
+40445,Tricot With Zipper Shirt- Olive,900.0,Unisex,All Season,KNTD,Knitwear,0.22043010752688172,5,5,1,0,1
+40446,Summer knit polo-white,900.0,Men,Winter,KNTD,Knitwear,0.22043010752688172,5,5,0,2,1
+40447,Summer knit polo-Black,900.0,Men,Winter,KNTD,Knitwear,0.22043010752688172,5,5,0,2,1
+40448,Summer knit polo-olive,900.0,Men,Winter,KNTD,Knitwear,0.22043010752688172,5,5,0,2,1
+40449,Straight fit Linen Pants - Black,665.0,Men,All Season,KNTD,Pants,0.15725806451612903,5,6,0,0,1
+40450,Straight fit Linen Pants - OFF White,665.0,Men,All Season,KNTD,Pants,0.15725806451612903,5,6,0,0,1
+40451,Straight fit Linen Shorts - Black,525.0,Men,Summer,KNTD,Shorts,0.1196236559139785,5,9,0,1,1
+40452,Straight fit Linen Shorts -off White,525.0,Men,Summer,KNTD,Shorts,0.1196236559139785,5,9,0,1,1
+40453,Everyday Essentials Oversized Tshirt- Black,700.0,Men,All Season,KNTD,T-Shirts,0.16666666666666666,5,13,0,0,1
+40454,Everyday Essentials Oversized Tshirt- Cashmere,700.0,Men,All Season,KNTD,T-Shirts,0.16666666666666666,5,13,0,0,1
+40455,WHITE KNTD BASIC T-SHIRT,700.0,Men,Summer,KNTD,T-Shirts,0.16666666666666666,5,13,0,1,1
+40456,OLIVE KNTD BASIC T-SHIRT,700.0,Men,Summer,KNTD,T-Shirts,0.16666666666666666,5,13,0,1,1
+40457,KNTD TEXTURED BASIC T-SHIRT- White,700.0,Men,Summer,KNTD,T-Shirts,0.16666666666666666,5,13,0,1,1
+40458,KNTD TEXTURED BASIC T-SHIRT-Black,700.0,Men,Summer,KNTD,T-Shirts,0.16666666666666666,5,13,0,1,1
+40459,Basic Oversized T-shirt - White,650.0,Men,Summer,KNTD,T-Shirts,0.1532258064516129,5,13,0,1,1
+40460,Basic Oversized T-shirt - Black,650.0,Men,Summer,KNTD,T-Shirts,0.1532258064516129,5,13,0,1,1
+40461,Basic Oversized T-shirt - Sky Blue,650.0,Men,Summer,KNTD,T-Shirts,0.1532258064516129,5,13,0,1,1
+40462,Basic Oversized T-shirt - Grey,650.0,Men,Summer,KNTD,T-Shirts,0.1532258064516129,5,13,0,1,1
+40463,Basic Oversized T-shirt - Beige,650.0,Men,Summer,KNTD,T-Shirts,0.1532258064516129,5,13,0,1,1
+40464,Basic Crochet Knit Shirt- Grey,665.0,Unisex,Winter,KNTD,Knitwear,0.15725806451612903,5,5,1,2,1
+40465,Basic Crochet Knit Shirt- Black,665.0,Unisex,Winter,KNTD,Knitwear,0.15725806451612903,5,5,1,2,1
+40466,Basic Crochet Knit Shirt- White,665.0,Unisex,Winter,KNTD,Knitwear,0.15725806451612903,5,5,1,2,1
+40467,Summer Knit Shirt - Beige,665.0,Unisex,Winter,KNTD,Knitwear,0.15725806451612903,5,5,1,2,1
+40468,KNTD Essential T-shirt - White,490.0,Men,Summer,KNTD,T-Shirts,0.11021505376344086,5,13,0,1,1
+40469,The Lush Life Oversized T-shirt,525.0,Men,Summer,KNTD,T-Shirts,0.1196236559139785,5,13,0,1,1
+40470,Straight fit Linen Pants - Beige,665.0,Men,All Season,KNTD,Pants,0.15725806451612903,5,6,0,0,1
+40471,Linen shirt- White,1200.0,Unisex,All Season,KNTD,Pants,0.3010752688172043,5,6,1,0,2
+40472,Linen shirt- Blue,1200.0,Unisex,All Season,KNTD,Pants,0.3010752688172043,5,6,1,0,2
+40473,Linen shirt- Olive,1200.0,Unisex,All Season,KNTD,Pants,0.3010752688172043,5,6,1,0,2
+40474,Linen shirt- Yellow,1200.0,Unisex,All Season,KNTD,Pants,0.3010752688172043,5,6,1,0,2
+40475,Linen shirt- Black,1200.0,Unisex,All Season,KNTD,Pants,0.3010752688172043,5,6,1,0,2
+40476,Linen shirt- Beige,1200.0,Unisex,All Season,KNTD,Pants,0.3010752688172043,5,6,1,0,2
+40477,Linen shirt- Navy,1200.0,Unisex,All Season,KNTD,Pants,0.3010752688172043,5,6,1,0,2
+40478,The Oxford Shirt - Light Blue,800.0,Unisex,All Season,KNTD,T-Shirts,0.1935483870967742,5,13,1,0,1
+40479,The Oxford Shirt - Olive,800.0,Unisex,All Season,KNTD,T-Shirts,0.1935483870967742,5,13,1,0,1
+40480,The Oxford Shirt - White,800.0,Unisex,All Season,KNTD,T-Shirts,0.1935483870967742,5,13,1,0,1
+40481,Men's Straight Fit Black Denim,840.0,Men,All Season,KNTD,Denim,0.20430107526881722,5,1,0,0,1
+40482,Everyday Textured T-shirt - White,500.0,Men,Summer,KNTD,T-Shirts,0.11290322580645161,5,13,0,1,1
+40483,Everyday Textured T-shirt - Beige,500.0,Men,Summer,KNTD,T-Shirts,0.11290322580645161,5,13,0,1,1
+40484,Women's Smoke Wash Baggy Fit Jeans Pant,799.0,Women,All Season,KNTD,Denim,0.1932795698924731,5,1,2,0,1
+40485,Women's Gray Wash Baggy Fit Jeans Pant,799.0,Women,All Season,KNTD,Denim,0.1932795698924731,5,1,2,0,1
+40486,Men's Straight Fit Dirty Blue Denim,799.0,Men,All Season,KNTD,Denim,0.1932795698924731,5,1,0,0,1
+40487,BLACK CREW NECK CASHMERE,500.0,Men,Winter,KNTD,Sweatshirts,0.11290322580645161,5,12,0,2,1
+40488,LIGHT GREY CREW NECK CASHMERE,500.0,Men,Winter,KNTD,Sweatshirts,0.11290322580645161,5,12,0,2,1
+40489,STRAIGHT FIT LIGHT GREY QUARTER-ZIP CASHMERE,770.0,Men,All Season,KNTD,T-Shirts,0.18548387096774194,5,13,0,0,1
+40490,BRICK RED HOODIE,600.0,Men,Winter,KNTD,Hoodies,0.13978494623655913,5,3,0,2,1
+40491,BLACK CARPENTER PANTS,899.0,Unisex,All Season,KNTD,Pants,0.22016129032258064,5,6,1,0,1
+40492,NAVY CARPENTER PANTS,899.0,Unisex,All Season,KNTD,Pants,0.22016129032258064,5,6,1,0,1
+40493,GREY CARPENTER PANTS,899.0,Unisex,All Season,KNTD,Pants,0.22016129032258064,5,6,1,0,1
+40494,GREEN CARPENTER PANTS,899.0,Unisex,All Season,KNTD,Pants,0.22016129032258064,5,6,1,0,1
+40495,WOOL SWEATER CREAMY,1250.0,Unisex,Winter,KNTD,Sweatshirts,0.31451612903225806,5,12,1,2,2
+40496,WOOL SWEATER NAVY BLUE,1250.0,Unisex,Winter,KNTD,Sweatshirts,0.31451612903225806,5,12,1,2,2
+40497,WOOL BLACK RIBBED SWEATER,799.0,Unisex,Winter,KNTD,Sweatshirts,0.1932795698924731,5,12,1,2,1
+40498,WOOL BEIGE RIBBED SWEATER,799.0,Unisex,Winter,KNTD,Sweatshirts,0.1932795698924731,5,12,1,2,1
+40499,BLACK STRAIGHT LEG SWEATPANTS,665.0,Men,Winter,KNTD,Sweatpants,0.15725806451612903,5,11,0,2,1
+40500,OFF-WHITE STRAIGHT LEG SWEATPANTS,665.0,Men,Winter,KNTD,Sweatpants,0.15725806451612903,5,11,0,2,1
+40501,BLACK DENIM JACKET,910.0,Men,Winter,KNTD,Denim,0.22311827956989247,5,1,0,2,2
+40502,BLUE DENIM JAKET,910.0,Men,All Season,KNTD,Denim,0.22311827956989247,5,1,0,0,2
+40503,WHITE HOODIE,600.0,Men,Winter,KNTD,Hoodies,0.13978494623655913,5,3,0,2,1
+40504,WHITE CREW NECK,630.0,Men,Winter,KNTD,Sweatshirts,0.1478494623655914,5,12,0,2,1
+40505,COBALT BLUE CREW NECK,550.0,Men,Winter,KNTD,Sweatshirts,0.12634408602150538,5,12,0,2,1
+40506,GREY QUARTER-ZIP CASHMERE,695.0,Unisex,All Season,KNTD,T-Shirts,0.16532258064516128,5,13,1,0,1
+40507,BLACK QUARTER-ZIP CASHMERE,695.0,Unisex,All Season,KNTD,T-Shirts,0.16532258064516128,5,13,1,0,1
+40508,STRAIGHT DIRTY DENIM,980.0,Men,All Season,KNTD,Denim,0.24193548387096775,5,1,0,0,2
+40509,Women's Beige Basic Trouser Wide-Leg,420.0,Women,Summer,KNTD,Pants,0.0913978494623656,5,6,2,1,1
+40510,Drape Cropped Tee - Sky Blue,210.0,Women,Summer,KNTD,T-Shirts,0.03494623655913978,5,13,2,1,0
+40511,Drape Cropped Tee - Navy,210.0,Women,Summer,KNTD,T-Shirts,0.03494623655913978,5,13,2,1,0
+40512,Drape Cropped Tee - Pink,210.0,Women,Summer,KNTD,T-Shirts,0.03494623655913978,5,13,2,1,0
+40513,Drape Cropped Tee - White,210.0,Women,Summer,KNTD,T-Shirts,0.03494623655913978,5,13,2,1,0
+40514,Quarter Sleeve Cropped Shirt - Sky Blue,245.0,Women,Summer,KNTD,Tops,0.04435483870967742,5,14,2,1,0
+40515,Quarter Sleeve Cropped Shirt - Navy,245.0,Women,Summer,KNTD,Tops,0.04435483870967742,5,14,2,1,0
+40516,BABY BLUE U-SHAPED SHORT SLEEVE,205.0,Unisex,Summer,KNTD,Shorts,0.033602150537634407,5,9,1,1,0
+40517,NAVY U-SHAPED SHORT SLEEVE,205.0,Unisex,Summer,KNTD,Shorts,0.033602150537634407,5,9,1,1,0
+40518,WHITE U-SHAPED SHORT SLEEVE,205.0,Unisex,Summer,KNTD,Shorts,0.033602150537634407,5,9,1,1,0
+40519,Tie Dye One Shoulder Shirt- Grey,150.0,Unisex,All Season,KNTD,T-Shirts,0.01881720430107527,5,13,1,0,0
+40520,Women's Black Faux Leather Pants With Belt,700.0,Women,All Season,KNTD,Pants,0.16666666666666666,5,6,2,0,1
+40521,Women's Brown Faux Leather Pants With Belt,700.0,Women,All Season,KNTD,Pants,0.16666666666666666,5,6,2,0,1
+40522,High Rise Wide Leg Elastic waist Blue Jeans,840.0,Unisex,All Season,KNTD,Denim,0.20430107526881722,5,1,1,0,1
+40523,Women's Blue Skinny Fit Plain Skinny Jeans,699.0,Women,All Season,KNTD,Denim,0.1663978494623656,5,1,2,0,1
+40524,Black Striped Drawstring Lounge Pants,455.0,Unisex,All Season,KNTD,Pants,0.10080645161290322,5,6,1,0,1
+40525,Blue Striped Drawstring Lounge Pants,455.0,Unisex,All Season,KNTD,Pants,0.10080645161290322,5,6,1,0,1
+40526,Leopard Print Wide-Leg Pants,455.0,Unisex,All Season,KNTD,Pants,0.10080645161290322,5,6,1,0,1
+40527,Leopard Print Wide-Leg Pants,455.0,Unisex,All Season,KNTD,Pants,0.10080645161290322,5,6,1,0,1
+40528,Women High-Waisted Washed Black Wide-Leg Jeans,799.0,Women,All Season,KNTD,Denim,0.1932795698924731,5,1,2,0,1
+40529,Women High-Waisted Washed Blue Wide-Leg Jeans,799.0,Women,All Season,KNTD,Denim,0.1932795698924731,5,1,2,0,1
+40530,Essentials 2-Piece White Set,595.0,Unisex,All Season,KNTD,Sets,0.13844086021505375,5,8,1,0,1
+40531,Essentials 2-Piece Beige Set,595.0,Unisex,All Season,KNTD,Sets,0.13844086021505375,5,8,1,0,1
+40532,Essentials 2-Piece Brown Set,595.0,Unisex,All Season,KNTD,Sets,0.13844086021505375,5,8,1,0,1
+40533,Essentials 2-Piece Burgundy Set,595.0,Unisex,All Season,KNTD,Sets,0.13844086021505375,5,8,1,0,1
+40534,Essentials 2-Piece Black Set,595.0,Unisex,All Season,KNTD,Sets,0.13844086021505375,5,8,1,0,1
+40535,Essentials 2-Piece Soft Peach Set,595.0,Unisex,All Season,KNTD,Sets,0.13844086021505375,5,8,1,0,1
+40536,Casual Saga 2-Piece Set,665.0,Unisex,All Season,KNTD,Sets,0.15725806451612903,5,8,1,0,1
+40537,Casual Sky Blue 2-Piece Set,665.0,Unisex,All Season,KNTD,Sets,0.15725806451612903,5,8,1,0,1
+40538,Casual Black 2-Piece Set,665.0,Unisex,All Season,KNTD,Sets,0.15725806451612903,5,8,1,0,1
+40539,Casual Beige 2-Piece Set,665.0,Unisex,All Season,KNTD,Sets,0.15725806451612903,5,8,1,0,1
+40540,Black Oversized T-Shirt with Back Print,470.0,Men,Summer,KNTD,T-Shirts,0.10483870967741936,5,13,0,1,1
+40541,White Oversized T-Shirt with Back Print,470.0,Men,Summer,KNTD,T-Shirts,0.10483870967741936,5,13,0,1,1
+40542,Women's wide leg Dark Blue jeans with ripped hem,799.0,Women,All Season,KNTD,Denim,0.1932795698924731,5,1,2,0,1
+40543,Women's wide leg Light Blue jeans with ripped hem,799.0,Women,All Season,KNTD,Denim,0.1932795698924731,5,1,2,0,1
+40544,"Women High-Waisted, Light Blue-Wash Wide-Leg Jeans.",799.0,Women,All Season,KNTD,Denim,0.1932795698924731,5,1,2,0,1
+40545,"Women High-Waisted, Dark Blue-Wash Wide-Leg Jeans.",799.0,Women,All Season,KNTD,Denim,0.1932795698924731,5,1,2,0,1
+40546,"Wide, Modern White Gabardine Pants",699.0,Unisex,All Season,KNTD,Pants,0.1663978494623656,5,6,1,0,1
+40547,"Wide, Modern Black Gabardine Pants",699.0,Unisex,All Season,KNTD,Pants,0.1663978494623656,5,6,1,0,1
+40548,"Wide, Modern  Beige Gabardine Pants",699.0,Unisex,All Season,KNTD,Pants,0.1663978494623656,5,6,1,0,1
+40549,Men's Wide-Leg blue wash Denim,799.0,Men,All Season,KNTD,Denim,0.1932795698924731,5,1,0,0,1
+40550,Men's Wide-Leg black wash Denim,799.0,Men,All Season,KNTD,Denim,0.1932795698924731,5,1,0,0,1
+40551,Men's Black Slim Fit Turtleneck Sweater,450.0,Unisex,All Season,KNTD,Sweatshirts,0.09946236559139784,5,12,1,0,1
+40552,Men's Black Printed Casual Hoodie,450.0,Men,Winter,KNTD,Hoodies,0.09946236559139784,5,3,0,2,1
+40553,Men's Green Printed Casual Hoodie,450.0,Men,Winter,KNTD,Hoodies,0.09946236559139784,5,3,0,2,1
+40554,Men's White Printed Casual Hoodie,450.0,Men,Winter,KNTD,Hoodies,0.09946236559139784,5,3,0,2,1
+40555,Men's Black embroidered Casual Hoodie,450.0,Men,Winter,KNTD,Hoodies,0.09946236559139784,5,3,0,2,1
+40556,Men's White embroidered Casual Hoodie,450.0,Men,Winter,KNTD,Hoodies,0.09946236559139784,5,3,0,2,1
+40557,Men's Beige embroidered Casual Hoodie,450.0,Men,Winter,KNTD,Hoodies,0.09946236559139784,5,3,0,2,1
+40558,Men's Gray Basic Crew Neck Set,800.0,Men,Winter,KNTD,Sets,0.1935483870967742,5,8,0,2,1
+40559,Men's Olive Basic Crew Neck Set,800.0,Men,Winter,KNTD,Sets,0.1935483870967742,5,8,0,2,1
+40560,Men's Black Basic Crew Neck Set,800.0,Men,Winter,KNTD,Sets,0.1935483870967742,5,8,0,2,1
+40561,Men's Black Textured Long Sleeve Sweater,425.0,Unisex,All Season,KNTD,Sweatshirts,0.09274193548387097,5,12,1,0,1
+40562,Men's Olive Textured Long Sleeve Sweater,425.0,Unisex,All Season,KNTD,Sweatshirts,0.09274193548387097,5,12,1,0,1
+40563,Men's Beige Textured Long Sleeve Sweater,425.0,Unisex,All Season,KNTD,Sweatshirts,0.09274193548387097,5,12,1,0,1
+40564,Men's Light Olive Standard Fit Crew Neck Pullover,425.0,Men,Winter,KNTD,Sweatshirts,0.09274193548387097,5,12,0,2,1
+40565,Men's Dark Gray Standard Fit Crew Neck Pullover,425.0,Men,Winter,KNTD,Sweatshirts,0.09274193548387097,5,12,0,2,1
+40566,Men's Olive Standard Fit Crew Neck Pullover,425.0,Men,Winter,KNTD,Sweatshirts,0.09274193548387097,5,12,0,2,1
+40567,Men's Drak Olive Standard Fit Crew Neck Pullover,425.0,Men,Winter,KNTD,Sweatshirts,0.09274193548387097,5,12,0,2,1
+40568,Men's White Standard Fit Crew Neck Pullover,425.0,Men,Winter,KNTD,Sweatshirts,0.09274193548387097,5,12,0,2,1
+40569,Men's Black Standard Fit Crew Neck Pullover,425.0,Men,Winter,KNTD,Sweatshirts,0.09274193548387097,5,12,0,2,1
+40570,Sky Blue Knitted Sweater With Button-Down Collar,600.0,Unisex,Winter,KNTD,Sweatshirts,0.13978494623655913,5,12,1,2,1
+40571,White Knitted Sweater With Button-Down Collar,840.0,Unisex,Winter,KNTD,Sweatshirts,0.20430107526881722,5,12,1,2,1
+40572,Light Green Crew Neck Embroidered Women's Thick Sweatshirt,450.0,Women,Winter,KNTD,Sweatshirts,0.09946236559139784,5,12,2,2,1
+40573,White Crew Neck Embroidered Women's Thick Sweatshirt,630.0,Women,Winter,KNTD,Sweatshirts,0.1478494623655914,5,12,2,2,1
+40574,Black Crew Neck Embroidered Women's Thick Sweatshirt,630.0,Women,Winter,KNTD,Sweatshirts,0.1478494623655914,5,12,2,2,1
+40575,Crew Neck Sweatshirt in White,900.0,Men,Winter,KNTD,Sweatshirts,0.22043010752688172,5,12,0,2,1
+40576,Crew Neck Sweatshirt in Black,900.0,Men,Winter,KNTD,Sweatshirts,0.22043010752688172,5,12,0,2,1
+40577,Straight Leg SweatPants in White,950.0,Men,Winter,KNTD,Sweatpants,0.23387096774193547,5,11,0,2,2
+40578,Straight Leg Sweatpants in Black,950.0,Men,Winter,KNTD,Sweatpants,0.23387096774193547,5,11,0,2,2
+40579,Quarter-Zip Cashmere in White,999.0,Unisex,All Season,KNTD,T-Shirts,0.24704301075268817,5,13,1,0,2
+40580,Quarter-Zip Cashmere in Black,999.0,Unisex,All Season,KNTD,T-Shirts,0.24704301075268817,5,13,1,0,2
+40581,Quarter-Zip Cashmere in Gray,999.0,Unisex,All Season,KNTD,T-Shirts,0.24704301075268817,5,13,1,0,2
+40582,Textured Sweater in Beige,600.0,Unisex,All Season,KNTD,Sweatshirts,0.13978494623655913,5,12,1,0,1
+40583,Textured sweater in White,600.0,Unisex,All Season,KNTD,Sweatshirts,0.13978494623655913,5,12,1,0,1
+40584,Relaxed-Fit Jeans in Black,1050.0,Unisex,All Season,KNTD,Denim,0.260752688172043,5,1,1,0,2
+40585,Relaxed-Fit Jeans in gray,1050.0,Unisex,All Season,KNTD,Denim,0.260752688172043,5,1,1,0,2
+40586,Full-Zip Knitted Sweater in Beige,1050.0,Unisex,Winter,KNTD,Sweatshirts,0.260752688172043,5,12,1,2,2
+40587,Full-Zip Knitted Sweater in Black,1050.0,Unisex,Winter,KNTD,Sweatshirts,0.260752688172043,5,12,1,2,2
+40588,Quarter Zip Knit in Beige,1050.0,Unisex,Winter,KNTD,Knitwear,0.260752688172043,5,5,1,2,2
+40589,Quarter Zip Knit in Black,1050.0,Unisex,Winter,KNTD,Knitwear,0.260752688172043,5,5,1,2,2
+40590,Crew Neck Knit in Off White,1050.0,Men,Winter,KNTD,Sweatshirts,0.260752688172043,5,12,0,2,2
+40591,Crew Neck Knit in Grey,1050.0,Men,Winter,KNTD,Sweatshirts,0.260752688172043,5,12,0,2,2
+40592,Crew Neck Knit in Navy,1050.0,Men,Winter,KNTD,Sweatshirts,0.260752688172043,5,12,0,2,2
+40593,Knitted Sweater in Beige,1050.0,Unisex,Winter,KNTD,Sweatshirts,0.260752688172043,5,12,1,2,2
+40594,Knitted Sweater in Gray,1050.0,Unisex,Winter,KNTD,Sweatshirts,0.260752688172043,5,12,1,2,2
+40595,Knitted Sweater in White,1050.0,Unisex,Winter,KNTD,Sweatshirts,0.260752688172043,5,12,1,2,2
+40596,Women???s Cable Knit Zip Sweater ??? Deep Burgundy,1050.0,Women,Winter,KNTD,Sweatshirts,0.260752688172043,5,12,2,2,2
+40597,Cable Knit Sweater in Off White,850.0,Unisex,Winter,KNTD,Sweatshirts,0.20698924731182797,5,12,1,2,1
+40598,Cable Knit Sweater in Light Blue,850.0,Unisex,Winter,KNTD,Sweatshirts,0.20698924731182797,5,12,1,2,1
+40599,Women???s Cable Knit Zip Sweater ??? Light Beige,1050.0,Women,Winter,KNTD,Sweatshirts,0.260752688172043,5,12,2,2,2
+40600,High Neck Cable Knit Sweater in Beige,950.0,Unisex,Winter,KNTD,Sweatshirts,0.23387096774193547,5,12,1,2,2
+40601,High Neck Cable Knit Sweater in Pink,850.0,Unisex,Winter,KNTD,Sweatshirts,0.20698924731182797,5,12,1,2,1
+40602,Black Ribbed Knit Zipper Sweater,950.0,Unisex,Winter,KNTD,Sweatshirts,0.23387096774193547,5,12,1,2,2
+40603,Grey Ribbed Knit Zipper Sweater,950.0,Unisex,Winter,KNTD,Sweatshirts,0.23387096774193547,5,12,1,2,2
+40604,White Ribbed Knit Zipper Sweater,950.0,Unisex,Winter,KNTD,Sweatshirts,0.23387096774193547,5,12,1,2,2
+40605,Relaxed-Fit Jeans in Blue,1050.0,Unisex,All Season,KNTD,Denim,0.260752688172043,5,1,1,0,2
+40606,Gabardine Pants in Khaki,950.0,Unisex,All Season,KNTD,Pants,0.23387096774193547,5,6,1,0,2
+40607,Textured sweater in Black,600.0,Unisex,All Season,KNTD,Sweatshirts,0.13978494623655913,5,12,1,0,1
+40608,Women High-Waisted Dark Blue Wide-Leg Jeans,1150.0,Women,All Season,KNTD,Denim,0.28763440860215056,5,1,2,0,2
+40609,Wool Jacket with Zipper ??? Grey,1600.0,Men,Winter,KNTD,Jackets,0.40860215053763443,5,4,0,2,2
+40610,Women black pants High Sparkle High-Rise Wide Leg Jeans,1150.0,Women,All Season,KNTD,Denim,0.28763440860215056,5,1,2,0,2
+40611,Women dark blue pants High Sparkle High-Rise Wide Leg Jeans,1150.0,Women,All Season,KNTD,Denim,0.28763440860215056,5,1,2,0,2
+40612,Polo T-Shirt in Black,999.0,Men,Summer,KNTD,Polo,0.24704301075268817,5,7,0,1,2
+40613,Polo T-Shirt in White,999.0,Men,Summer,KNTD,Polo,0.24704301075268817,5,7,0,1,2
+40614,Polo T-Shirt in Beige,999.0,Men,Summer,KNTD,Polo,0.24704301075268817,5,7,0,1,2
+40615,Black Sweatshirt with zip-up collar,500.0,Men,Winter,KNTD,Sweatshirts,0.11290322580645161,5,12,0,2,1
+40616,Men's Embroidered Black Fleece Sweatshirt,450.0,Men,Winter,KNTD,Sweatshirts,0.09946236559139784,5,12,0,2,1
+40617,Men's Beige Textured Jacquard Sweatshirt,425.0,Men,Winter,KNTD,Sweatshirts,0.09274193548387097,5,12,0,2,1
+40618,Men's White Textured Jacquard Sweatshirt,425.0,Men,Winter,KNTD,Sweatshirts,0.09274193548387097,5,12,0,2,1
+40619,Men's Black Textured Jacquard Sweatshirt,425.0,Men,Winter,KNTD,Sweatshirts,0.09274193548387097,5,12,0,2,1
+40620,Dark Gray Sweatshirt with zip-up collar,500.0,Men,Winter,KNTD,Sweatshirts,0.11290322580645161,5,12,0,2,1
+40621,Men's Black Leather Vest With White Details,450.0,Unisex,All Season,KNTD,T-Shirts,0.09946236559139784,5,13,1,0,1
+40622,Men's Embroidered Beige Fleece Sweatshirt,450.0,Men,Winter,KNTD,Sweatshirts,0.09946236559139784,5,12,0,2,1
+40623,Men's Embroidered Beige Fleece Sweatshirt,450.0,Men,Winter,KNTD,Sweatshirts,0.09946236559139784,5,12,0,2,1
+40624,Men's Brown Leather Vest With White Details,450.0,Unisex,All Season,KNTD,T-Shirts,0.09946236559139784,5,13,1,0,1
+40625,Men's Wool Black Pullover With small embroidery,450.0,Unisex,Winter,KNTD,Knitwear,0.09946236559139784,5,5,1,2,1
+40626,Men's Brown Ribbed Fleece High Neck Sweatshirt,450.0,Men,Winter,KNTD,Sweatshirts,0.09946236559139784,5,12,0,2,1
+40627,Men's Beige Leather Vest With White Details,450.0,Unisex,All Season,KNTD,T-Shirts,0.09946236559139784,5,13,1,0,1
+40628,Men's Gray Ribbed Fleece High Neck Sweatshirt,450.0,Men,Winter,KNTD,Sweatshirts,0.09946236559139784,5,12,0,2,1
+40629,Men's White Ribbed Fleece High Neck Sweatshirt,450.0,Men,Winter,KNTD,Sweatshirts,0.09946236559139784,5,12,0,2,1
+40630,Gray Sweatshirt with zip-up collar,500.0,Men,Winter,KNTD,Sweatshirts,0.11290322580645161,5,12,0,2,1
+40631,Men's Black Leather Vest With Black Details,450.0,Unisex,All Season,KNTD,T-Shirts,0.09946236559139784,5,13,1,0,1
+40632,Men's Embroidered White Fleece Sweatshirt,450.0,Men,Winter,KNTD,Sweatshirts,0.09946236559139784,5,12,0,2,1
+40633,Men's Wool Gray  Pullover With small embroidery,450.0,Unisex,Winter,KNTD,Knitwear,0.09946236559139784,5,5,1,2,1
+40634,Button Down Beige Polo T-Shirt,650.0,Men,Summer,KNTD,Polo,0.1532258064516129,5,7,0,1,1
+40635,Button Down Black Polo T-Shirt,650.0,Men,Summer,KNTD,Polo,0.1532258064516129,5,7,0,1,1
+40636,Button Down White Polo T-Shirt,650.0,Men,Summer,KNTD,Polo,0.1532258064516129,5,7,0,1,1
+40637,White polo T-shirt with a subtle pattern,650.0,Men,Summer,KNTD,Polo,0.1532258064516129,5,7,0,1,1
+40638,Beige polo T-shirt with a subtle pattern,650.0,Men,Summer,KNTD,Polo,0.1532258064516129,5,7,0,1,1
+40639,Light blue polo T-shirt with a subtle pattern,650.0,Men,Summer,KNTD,Polo,0.1532258064516129,5,7,0,1,1
+40640,Interlock summer pants- White,665.0,Unisex,Summer,KNTD,Pants,0.15725806451612903,5,6,1,1,1
+40641,The Sleek Slit-Sleeve Ribbed Top - Black,175.0,Unisex,All Season,KNTD,Knitwear,0.025537634408602152,5,5,1,0,0
+40642,The Sleek Slit-Sleeve Ribbed Top - Pink,175.0,Unisex,All Season,KNTD,Knitwear,0.025537634408602152,5,5,1,0,0
+40643,Women's Black Tube Top Strapless,150.0,Women,All Season,KNTD,Tops,0.01881720430107527,5,14,2,0,0
+40644,The Sleek Slit-Sleeve Ribbed Top - White,175.0,Unisex,All Season,KNTD,Knitwear,0.025537634408602152,5,5,1,0,0
+40645,Beige Cropped Long Sleeve Bomber Jacket,999.0,Women,Winter,KNTD,Jackets,0.24704301075268817,5,4,2,2,2
+40646,Beige Ribbed Turtleneck Blouse,300.0,Unisex,All Season,KNTD,Knitwear,0.05913978494623656,5,5,1,0,0
+40647,Mint Cropped Long Sleeve Bomber Jacket,999.0,Women,Winter,KNTD,Jackets,0.24704301075268817,5,4,2,2,2
+40648,Gray Cropped Long Sleeve Bomber Jacket,999.0,Women,Winter,KNTD,Jackets,0.24704301075268817,5,4,2,2,2
+40649,Gray Women's Gogh jacket With Hood,600.0,Women,Winter,KNTD,Jackets,0.13978494623655913,5,4,2,2,1
+40650,Beige Women's Gogh jacket With Hood,840.0,Women,Winter,KNTD,Jackets,0.20430107526881722,5,4,2,2,1
+40651,Mint Women's Gogh jacket With Hood,840.0,Women,Winter,KNTD,Jackets,0.20430107526881722,5,4,2,2,1
+40652,Mint Women's Gogh jacket With Hood,840.0,Women,Winter,KNTD,Jackets,0.20430107526881722,5,4,2,2,1
+40653,Oilve Women's Gogh jacket With Hood,840.0,Women,Winter,KNTD,Jackets,0.20430107526881722,5,4,2,2,1
+40654,Camel Women's Gogh jacket With Hood,600.0,Women,Winter,KNTD,Jackets,0.13978494623655913,5,4,2,2,1
+40655,Women's Faux Fur Beige Jacket,1400.0,Women,Winter,KNTD,Jackets,0.3548387096774194,5,4,2,2,2
+40656,Women's Faux Fur Light Biege Jacket,1400.0,Women,Winter,KNTD,Jackets,0.3548387096774194,5,4,2,2,2
+40657,Black Ribbed Turtleneck Blouse,300.0,Unisex,All Season,KNTD,Knitwear,0.05913978494623656,5,5,1,0,0
+40658,Women's Skirt  Black Mini Faux Leather Short Belted,470.0,Women,Summer,KNTD,Shorts,0.10483870967741936,5,9,2,1,1
+40659,Women's Skirt  Brown Mini Faux Leather Short Belted,335.0,Women,Summer,KNTD,Shorts,0.06854838709677419,5,9,2,1,0
+40660,Black Blouse With stitch detail,450.0,Unisex,All Season,KNTD,Tops,0.09946236559139784,5,14,1,0,1
+40661,Light Beige Cropped Long Sleeve Bomber Jacket,999.0,Women,Winter,KNTD,Jackets,0.24704301075268817,5,4,2,2,2
+40662,Black Cropped Long Sleeve Bomber Jacket,999.0,Women,Winter,KNTD,Jackets,0.24704301075268817,5,4,2,2,2
+40663,Women's Faux Fur Black Jacket,1400.0,Women,Winter,KNTD,Jackets,0.3548387096774194,5,4,2,2,2
+40664,One Shoulder Basic Top - Sky Blue,150.0,Unisex,Summer,KNTD,Tops,0.01881720430107527,5,14,1,1,0
+40665,One Shoulder Basic Top - Navy,150.0,Unisex,Summer,KNTD,Tops,0.01881720430107527,5,14,1,1,0
+40666,One Shoulder Basic Top - Pink,150.0,Unisex,Summer,KNTD,Tops,0.01881720430107527,5,14,1,1,0
+40667,One Shoulder Basic Top - White,150.0,Unisex,Summer,KNTD,Tops,0.01881720430107527,5,14,1,1,0
+40668,Crochet Halter Top ??? White,420.0,Unisex,All Season,KNTD,Tops,0.0913978494623656,5,14,1,0,1
+40669,Crochet Halter Top ??? Black,420.0,Unisex,All Season,KNTD,Tops,0.0913978494623656,5,14,1,0,1
+40670,Crochet Halter Top ??? Rust Brown,420.0,Unisex,All Season,KNTD,Tops,0.0913978494623656,5,14,1,0,1
+40671,Tie Dye One Shoulder Shirt- Green,150.0,Unisex,All Season,KNTD,T-Shirts,0.01881720430107527,5,13,1,0,0
+40672,Tie Dye One Shoulder Shirt- dark blue,150.0,Unisex,All Season,KNTD,T-Shirts,0.01881720430107527,5,13,1,0,0
+40673,Tie Dye One Shoulder Shirt- sky blue,150.0,Unisex,All Season,KNTD,T-Shirts,0.01881720430107527,5,13,1,0,0
+40674,Tie Dye One Shoulder Shirt- Black,150.0,Unisex,All Season,KNTD,T-Shirts,0.01881720430107527,5,13,1,0,0
+40675,Quarter Sleeve Cropped Shirt - Pink,245.0,Women,Summer,KNTD,Tops,0.04435483870967742,5,14,2,1,0
+40676,Velvet High Neck Top - Black,205.0,Unisex,All Season,KNTD,Tops,0.033602150537634407,5,14,1,0,0
+40677,High Neck Rib Top - Black,175.0,Unisex,All Season,KNTD,Tops,0.025537634408602152,5,14,1,0,0
+40678,High Neck Rib Top - White,175.0,Unisex,All Season,KNTD,Tops,0.025537634408602152,5,14,1,0,0
+40679,High Neck Rib Top - Pink,175.0,Unisex,All Season,KNTD,Tops,0.025537634408602152,5,14,1,0,0
+40680,Gabardine Pants in Brown,950.0,Unisex,All Season,KNTD,Pants,0.23387096774193547,5,6,1,0,2
+40681,Gabardine Jacket in Ash Brown,1050.0,Men,Winter,KNTD,Jackets,0.260752688172043,5,4,0,2,2
+40682,Gabardine Jacket in Black,1050.0,Men,Winter,KNTD,Jackets,0.260752688172043,5,4,0,2,2
+40683,Leather Jacket in Black,1200.0,Men,Winter,KNTD,Jackets,0.3010752688172043,5,4,0,2,2
+40684,Leather Jacket in Brown,1200.0,Men,Winter,KNTD,Jackets,0.3010752688172043,5,4,0,2,2
+40685,W-Sweatshirt-2639-L-Lime Green test,100.0,Men,Winter,KNTD,Sweatshirts,0.005376344086021506,5,12,0,2,0
+40686,Wool Jacket with Zipper ??? Beige,1600.0,Men,Winter,KNTD,Jackets,0.40860215053763443,5,4,0,2,2
+40687,Wool Jacket with Zipper ??? Black,1600.0,Men,Winter,KNTD,Jackets,0.40860215053763443,5,4,0,2,2
+40688,Wool Jacket with Zipper ??? Oily,1600.0,Men,Winter,KNTD,Jackets,0.40860215053763443,5,4,0,2,2
+40689,Sweatpants,1050.0,Men,Winter,NH Designs,Sweatpants,0.260752688172043,6,11,0,2,2
+40690,Cropped sweater,800.0,Women,Summer,Corebasics,Sweatshirts,0.1935483870967742,4,12,2,1,1
+40691,Hour Glass sweater,950.0,Unisex,All Season,Corebasics,Sweatshirts,0.23387096774193547,4,12,1,0,2
+40692,Cone Top,450.0,Unisex,All Season,Corebasics,Tops,0.09946236559139784,4,14,1,0,1
+40693,Loose neck top,450.0,Unisex,All Season,Corebasics,Tops,0.09946236559139784,4,14,1,0,1
+40694,Backless Top,400.0,Unisex,All Season,Corebasics,Tops,0.08602150537634409,4,14,1,0,1
+40695,One side Maxi Top,650.0,Unisex,All Season,Corebasics,Tops,0.1532258064516129,4,14,1,0,1
+40696,Backless Bodysuit,400.0,Unisex,All Season,Corebasics,T-Shirts,0.08602150537634409,4,13,1,0,1
+40697,Stripped set,1400.0,Unisex,All Season,Corebasics,Sets,0.3548387096774194,4,8,1,0,2
+40698,Speghetti Strap Top,350.0,Unisex,All Season,Corebasics,Tops,0.07258064516129033,4,14,1,0,0
+40699,Boated Top,500.0,Unisex,All Season,Corebasics,Tops,0.11290322580645161,4,14,1,0,1
+40700,Tank Top,350.0,Unisex,Summer,Corebasics,Tops,0.07258064516129033,4,14,1,1,0
+40701,Linen pants,250.0,Unisex,All Season,NH Designs,Pants,0.0456989247311828,6,6,1,0,0
+40702,UNISEX Pants,650.0,Unisex,All Season,Corebasics,Pants,0.1532258064516129,4,6,1,0,1
+40703,Slit dress,750.0,Women,Summer,Corebasics,Dresses,0.18010752688172044,4,2,2,1,1
+40704,Tie dress,900.0,Women,Summer,Corebasics,Dresses,0.22043010752688172,4,2,2,1,1
+40705,Double layered dress,600.0,Women,Summer,Corebasics,Dresses,0.13978494623655913,4,2,2,1,1
+40706,Side Slip Dress,900.0,Women,Summer,Corebasics,Dresses,0.22043010752688172,4,2,2,1,1
+40707,Tube Dress,700.0,Women,Summer,Corebasics,Dresses,0.16666666666666666,4,2,2,1,1
+40708,Backless Dress,900.0,Women,Summer,Corebasics,Dresses,0.22043010752688172,4,2,2,1,1
+40709,ALL-DAY Oversized Blazer,1200.0,Men,All Season,Corebasics,Jackets,0.3010752688172043,4,4,0,0,2
+40710,Cropped jacket,1400.0,Women,Winter,NH Designs,Jackets,0.3548387096774194,6,4,2,2,2
+40711,Finger Quarter Zip Sweater,650.0,Unisex,All Season,Corebasics,Sweatshirts,0.1532258064516129,4,12,1,0,1
+40712,Oversized UNISEX Jacket,700.0,Unisex,Winter,Corebasics,Jackets,0.16666666666666666,4,4,1,2,1
+40713,UNISEX Quarter Zip Sweater,670.0,Unisex,All Season,Corebasics,Sweatshirts,0.1586021505376344,4,12,1,0,1
+40714,Corebasics essential cap,300.0,Unisex,All Season,Corebasics,Accessories,0.05913978494623656,4,0,1,0,0
+40715,Long Arm Sleeves,100.0,Unisex,All Season,Corebasics,T-Shirts,0.005376344086021506,4,13,1,0,0
+40716,Corebasics essential sock (2 pairs),90.0,Unisex,All Season,Corebasics,T-Shirts,0.002688172043010753,4,13,1,0,0
+40717,FOLDED TAILORED PANTS,1290.0,Unisex,All Season,NH Designs,Pants,0.32526881720430106,6,6,1,0,2
+40718,STRIPPED FOLDED TAILORED PANTS,1290.0,Unisex,All Season,NH Designs,Pants,0.32526881720430106,6,6,1,0,2
+40719,Stripped Tailored Pants,1100.0,Unisex,All Season,NH Designs,Pants,0.27419354838709675,6,6,1,0,2
+40720,Washed Full Set,1999.0,Unisex,All Season,NH Designs,Sets,0.5158602150537634,6,8,1,0,2
+40721,Stone Double Zipper,800.0,Unisex,All Season,NH Designs,T-Shirts,0.1935483870967742,6,13,1,0,1
+40722,Boxer Formal pants,1100.0,Unisex,All Season,NH Designs,Pants,0.27419354838709675,6,6,1,0,2
+40723,Black seamless leggings,699.0,Unisex,All Season,NH Designs,Pants,0.1663978494623656,6,6,1,0,1
+40724,The Hip Cover,299.0,Unisex,All Season,NH Designs,T-Shirts,0.05887096774193548,6,13,1,0,0
+40725,The V waist Yoga pants,699.0,Unisex,All Season,NH Designs,Pants,0.1663978494623656,6,6,1,0,1
+40726,Extra wide leg light jeans,899.0,Unisex,All Season,NH Designs,Denim,0.22016129032258064,6,1,1,0,1
+40727,Black Party pants,1150.0,Unisex,All Season,NH Designs,Pants,0.28763440860215056,6,6,1,0,2
+40728,TIE ME SKIRT,950.0,Women,Summer,NH Designs,T-Shirts,0.23387096774193547,6,13,2,1,2
+40729,CRINKLE FULL SET,899.0,Unisex,All Season,NH Designs,Sets,0.22016129032258064,6,8,1,0,1
+40730,Snatching Cotton T-shirt,950.0,Men,Summer,NH Designs,T-Shirts,0.23387096774193547,6,13,0,1,2
+40731,3D STUDS CLUTCH,899.0,Unisex,All Season,NH Designs,T-Shirts,0.22016129032258064,6,13,1,0,1
+40732,3D STUDS BAG,899.0,Unisex,All Season,NH Designs,Accessories,0.22016129032258064,6,0,1,0,1
+40733,Side Corset Dress Half sleeves,1200.0,Women,Summer,NH Designs,Dresses,0.3010752688172043,6,2,2,1,2
+40734,Side Corset Dress Long sleeves,1200.0,Women,Summer,NH Designs,Dresses,0.3010752688172043,6,2,2,1,2
+40735,DOUBLE BELTED LIGHT JEANS,1199.0,Unisex,All Season,NH Designs,Denim,0.3008064516129032,6,1,1,0,2
+40736,V WAIST SKIRT,1200.0,Women,Summer,NH Designs,T-Shirts,0.3010752688172043,6,13,2,1,2
+40737,Pure linen Tailored Pants,950.0,Unisex,All Season,NH Designs,Pants,0.23387096774193547,6,6,1,0,2
+40738,Satin Midi skirt,950.0,Women,Summer,NH Designs,T-Shirts,0.23387096774193547,6,13,2,1,2
+40739,Washed sweat pants,1100.0,Unisex,All Season,NH Designs,Sweatpants,0.27419354838709675,6,11,1,0,2
+40740,Washed waisted Tshirt,1300.0,Unisex,All Season,NH Designs,T-Shirts,0.3279569892473118,6,13,1,0,2
+40741,Knitwear Top,599.0,Unisex,Winter,NH Designs,Knitwear,0.13951612903225807,6,5,1,2,1
+40742,Knitwear pants,899.0,Unisex,Winter,NH Designs,Knitwear,0.22016129032258064,6,5,1,2,1
+40743,knitwear chemise,899.0,Unisex,Winter,NH Designs,Knitwear,0.22016129032258064,6,5,1,2,1
+40744,Snatching chemise,1200.0,Unisex,All Season,NH Designs,T-Shirts,0.3010752688172043,6,13,1,0,2
+40745,Corset Tshirt long sleeve,799.0,Unisex,All Season,NH Designs,T-Shirts,0.1932795698924731,6,13,1,0,1
+40746,Ruffle Maxi kimono,1800.0,Women,Summer,NH Designs,Summer Essentials,0.46236559139784944,6,10,2,1,2
+40747,Ribbed waisted shirt Short length Sleeves,850.0,Unisex,Summer,NH Designs,Knitwear,0.20698924731182797,6,5,1,1,1
+40748,Ribbed waisted shirt Full Length Sleeves,850.0,Unisex,All Season,NH Designs,Knitwear,0.20698924731182797,6,5,1,0,1
+40749,Studded Leather Bag,800.0,Unisex,All Season,NH Designs,Accessories,0.1935483870967742,6,0,1,0,1
+40750,Sparkle Star Top,599.0,Unisex,All Season,NH Designs,Tops,0.13951612903225807,6,14,1,0,1
+40751,Studded Tank top,599.0,Unisex,Summer,NH Designs,Tops,0.13951612903225807,6,14,1,1,1
+40752,Yellow waisted chemise,1100.0,Unisex,All Season,NH Designs,T-Shirts,0.27419354838709675,6,13,1,0,2
+40753,Leopard chemise,999.0,Unisex,All Season,NH Designs,T-Shirts,0.24704301075268817,6,13,1,0,2
+40754,leopard extra wide leg,950.0,Unisex,All Season,NH Designs,Pants,0.23387096774193547,6,6,1,0,2
+40755,Leopard Ruffle Top,1500.0,Unisex,All Season,NH Designs,Tops,0.3817204301075269,6,14,1,0,2
+40756,Summer Matching full set,1900.0,Unisex,Summer,NH Designs,Sets,0.489247311827957,6,8,1,1,2
+40757,Ruffle Top,1500.0,Unisex,All Season,NH Designs,Tops,0.3817204301075269,6,14,1,0,2
+40758,Corset Tshirt,799.0,Unisex,All Season,NH Designs,T-Shirts,0.1932795698924731,6,13,1,0,1
+40759,Burgundy Tie kimono,899.0,Women,Summer,NH Designs,Summer Essentials,0.22016129032258064,6,10,2,1,1
+40760,Burgundy waisted tailored pants,555.0,Unisex,All Season,NH Designs,Pants,0.12768817204301075,6,6,1,0,1
+40761,Extra wide leg linen pants,900.0,Unisex,All Season,NH Designs,Pants,0.22043010752688172,6,6,1,0,1
+40762,Tie kimono,900.0,Women,Summer,NH Designs,Summer Essentials,0.22043010752688172,6,10,2,1,1
+40763,Corset Dress,1950.0,Women,Summer,NH Designs,Dresses,0.5026881720430108,6,2,2,1,2
+40764,Sided Corset Chemise,1399.0,Unisex,All Season,NH Designs,T-Shirts,0.35456989247311826,6,13,1,0,2
+40765,The Satin Bow Baby Tee,250.0,Women,Summer,NH Designs,T-Shirts,0.0456989247311828,6,13,2,1,0
+40766,The Glass Cup baby Tee,450.0,Women,Summer,NH Designs,T-Shirts,0.09946236559139784,6,13,2,1,1
+40767,The Bow Baby Tea,250.0,Unisex,All Season,NH Designs,T-Shirts,0.0456989247311828,6,13,1,0,0
+40768,Star Tiger Babe Tee,450.0,Men,Summer,NH Designs,T-Shirts,0.09946236559139784,6,13,0,1,1
+40769,Linen sparkle Chemise,250.0,Unisex,All Season,NH Designs,Pants,0.0456989247311828,6,6,1,0,0
+40770,Linen Chemise,999.0,Unisex,All Season,NH Designs,Pants,0.24704301075268817,6,6,1,0,2
+40771,Extra Wide leg linen pants,900.0,Unisex,All Season,NH Designs,Pants,0.22043010752688172,6,6,1,0,1
+40772,Flattered Chemise,1250.0,Unisex,All Season,NH Designs,T-Shirts,0.31451612903225806,6,13,1,0,2
+40773,Light Jeans Blazer,1350.0,Unisex,All Season,NH Designs,Denim,0.34139784946236557,6,1,1,0,2
+40774,Light Jeans Corset Chemise,1200.0,Unisex,All Season,NH Designs,Denim,0.3010752688172043,6,1,1,0,2
+40775,Light jeans Vest,1200.0,Unisex,All Season,NH Designs,Denim,0.3010752688172043,6,1,1,0,2
+40776,corset chemise,1250.0,Unisex,All Season,NH Designs,T-Shirts,0.31451612903225806,6,13,1,0,2
+40777,Shimmer Tailored Pants,999.0,Unisex,All Season,NH Designs,Pants,0.24704301075268817,6,6,1,0,2
+40778,i am just a girl tank top,699.0,Women,Summer,NH Designs,Tops,0.1663978494623656,6,14,2,1,1
+40779,Leopard Skirt,899.0,Women,Summer,NH Designs,T-Shirts,0.22016129032258064,6,13,2,1,1
+40780,waisted chemise,1100.0,Unisex,All Season,NH Designs,T-Shirts,0.27419354838709675,6,13,1,0,2
+40781,The Snatching Top,1250.0,Unisex,All Season,NH Designs,Tops,0.31451612903225806,6,14,1,0,2
+40782,The Studded Chemise,1350.0,Unisex,All Season,NH Designs,T-Shirts,0.34139784946236557,6,13,1,0,2
+40783,Light Jeans Tailored Pants,1250.0,Unisex,All Season,NH Designs,Denim,0.31451612903225806,6,1,1,0,2
+40784,Boxer pants,1100.0,Unisex,All Season,NH Designs,Pants,0.27419354838709675,6,6,1,0,2
+40785,Stripped waisted chemise,1100.0,Unisex,All Season,NH Designs,T-Shirts,0.27419354838709675,6,13,1,0,2
+40786,Sparkle waisted chemise,1300.0,Unisex,All Season,NH Designs,T-Shirts,0.3279569892473118,6,13,1,0,2
+40787,Extra Sparkle Tailored pants,1200.0,Unisex,All Season,NH Designs,Pants,0.3010752688172043,6,6,1,0,2
+40788,Cropped Chemise,950.0,Women,Summer,NH Designs,Tops,0.23387096774193547,6,14,2,1,2
+40789,Waisted Chemise,1100.0,Unisex,All Season,NH Designs,T-Shirts,0.27419354838709675,6,13,1,0,2
+40790,Sparkle washed Sweats,1250.0,Unisex,All Season,NH Designs,T-Shirts,0.31451612903225806,6,13,1,0,2
+40791,Belted vest,250.0,Unisex,All Season,NH Designs,Accessories,0.0456989247311828,6,0,1,0,0
+40792,Sparkle Tailored pants,250.0,Unisex,All Season,NH Designs,Pants,0.0456989247311828,6,6,1,0,0
+40793,Black everyday full set,1200.0,Unisex,All Season,NH Designs,Sets,0.3010752688172043,6,8,1,0,2
+40794,white Bling shirt,1100.0,Unisex,All Season,NH Designs,T-Shirts,0.27419354838709675,6,13,1,0,2
+40795,Basic Tee,700.0,Men,Summer,NH Designs,T-Shirts,0.16666666666666666,6,13,0,1,1
+40796,Stripped pants,250.0,Unisex,All Season,NH Designs,Pants,0.0456989247311828,6,6,1,0,0
+40797,Floral vest,900.0,Unisex,All Season,NH Designs,T-Shirts,0.22043010752688172,6,13,1,0,1
+40798,Black Bling shirt,1100.0,Unisex,All Season,NH Designs,T-Shirts,0.27419354838709675,6,13,1,0,2
+40799,Washed Bling shirt,1100.0,Unisex,All Season,NH Designs,T-Shirts,0.27419354838709675,6,13,1,0,2
+40800,Balloon skirt,500.0,Women,Summer,NH Designs,T-Shirts,0.11290322580645161,6,13,2,1,1
+40801,Fringes Chemise,250.0,Unisex,All Season,NH Designs,T-Shirts,0.0456989247311828,6,13,1,0,0
+40802,Floral Top,250.0,Unisex,All Season,NH Designs,Tops,0.0456989247311828,6,14,1,0,0
+40803,Tayra Top,250.0,Unisex,All Season,NH Designs,Tops,0.0456989247311828,6,14,1,0,0
+40804,Flowy Skirt,250.0,Women,Summer,NH Designs,Summer Essentials,0.0456989247311828,6,10,2,1,0
+40805,Ruffle skirt,650.0,Women,Summer,NH Designs,T-Shirts,0.1532258064516129,6,13,2,1,1
+40806,B & w Tank Top,400.0,Unisex,Summer,NH Designs,Tops,0.08602150537634409,6,14,1,1,1
+40807,Shawl chemise,1100.0,Unisex,All Season,NH Designs,T-Shirts,0.27419354838709675,6,13,1,0,2
+40808,Mini heart top,550.0,Unisex,All Season,NH Designs,Tops,0.12634408602150538,6,14,1,0,1
+40809,Gradient pants,250.0,Unisex,All Season,NH Designs,Pants,0.0456989247311828,6,6,1,0,0
+40810,Stripped Baby Blue pants,555.0,Unisex,All Season,NH Designs,Pants,0.12768817204301075,6,6,1,0,1
+40811,Waisted Tailored Pants,899.0,Unisex,All Season,NH Designs,Pants,0.22016129032258064,6,6,1,0,1
+40812,Bow Tee,250.0,Men,Summer,NH Designs,T-Shirts,0.0456989247311828,6,13,0,1,0
+40813,Matching Chemise,700.0,Unisex,All Season,NH Designs,T-Shirts,0.16666666666666666,6,13,1,0,1
+40814,Ribbed everyday pants,650.0,Unisex,All Season,NH Designs,Knitwear,0.1532258064516129,6,5,1,0,1
+40815,Ribbed everyday Tshirt,650.0,Unisex,All Season,NH Designs,Knitwear,0.1532258064516129,6,5,1,0,1
+40816,Ribbed everyday full set,250.0,Unisex,All Season,NH Designs,Sets,0.0456989247311828,6,8,1,0,0
+40817,Stone Double Zipper,250.0,Unisex,All Season,NH Designs,T-Shirts,0.0456989247311828,6,13,1,0,0
+40818,Linen set,1400.0,Unisex,All Season,NH Designs,Sets,0.3548387096774194,6,8,1,0,2
+40819,Split TSHIRT,1200.0,Unisex,All Season,NH Designs,T-Shirts,0.3010752688172043,6,13,1,0,2
+40820,Split pants,600.0,Unisex,All Season,NH Designs,Pants,0.13978494623655913,6,6,1,0,1
+40821,Washed sweatshirt,900.0,Men,Winter,NH Designs,Sweatshirts,0.22043010752688172,6,12,0,2,1
+40822,Washed track pants,900.0,Unisex,All Season,NH Designs,Pants,0.22043010752688172,6,6,1,0,1
+40823,Plisse Skirt,250.0,Women,Summer,NH Designs,T-Shirts,0.0456989247311828,6,13,2,1,0
+40824,Squared Long Sleeve,450.0,Unisex,All Season,NH Designs,T-Shirts,0.09946236559139784,6,13,1,0,1
+40825,Long Sleeve,250.0,Unisex,All Season,NH Designs,T-Shirts,0.0456989247311828,6,13,1,0,0
+40826,Double Zipper Top,250.0,Unisex,All Season,NH Designs,Tops,0.0456989247311828,6,14,1,0,0
+40827,Knot Skirt,250.0,Women,Summer,NH Designs,T-Shirts,0.0456989247311828,6,13,2,1,0
+40828,Cross Neck Top,250.0,Unisex,All Season,NH Designs,Tops,0.0456989247311828,6,14,1,0,0
+40829,Corset Top,250.0,Unisex,All Season,NH Designs,Tops,0.0456989247311828,6,14,1,0,0
+40830,Corset Tshir,250.0,Unisex,All Season,NH Designs,T-Shirts,0.0456989247311828,6,13,1,0,0
+40831,Basic one shoulder Top,250.0,Unisex,All Season,NH Designs,Tops,0.0456989247311828,6,14,1,0,0
+40832,Wrap Me Up skirt,950.0,Women,Summer,NH Designs,T-Shirts,0.23387096774193547,6,13,2,1,2
+40833,Body shaping Dress,800.0,Women,Summer,NH Designs,Dresses,0.1935483870967742,6,2,2,1,1
+40834,Double Faced Vest,250.0,Unisex,All Season,NH Designs,T-Shirts,0.0456989247311828,6,13,1,0,0
+40835,Shirt Dress,250.0,Women,Summer,NH Designs,Dresses,0.0456989247311828,6,2,2,1,0
+40836,Mix Dress,250.0,Women,Summer,NH Designs,Dresses,0.0456989247311828,6,2,2,1,0
+40837,Stone Everyday Shirt,800.0,Unisex,All Season,NH Designs,T-Shirts,0.1935483870967742,6,13,1,0,1
+40838,Army EveryDay corset,800.0,Unisex,All Season,NH Designs,T-Shirts,0.1935483870967742,6,13,1,0,1
+40839,zipper corset Black,250.0,Unisex,All Season,NH Designs,T-Shirts,0.0456989247311828,6,13,1,0,0
+40840,Beieg Basic shirt,250.0,Unisex,All Season,NH Designs,T-Shirts,0.0456989247311828,6,13,1,0,0
+40841,Multi Colors wrap Skirt,500.0,Women,Summer,NH Designs,T-Shirts,0.11290322580645161,6,13,2,1,1
+40842,Black EveryDay Pants,650.0,Unisex,All Season,NH Designs,Pants,0.1532258064516129,6,6,1,0,1
+40843,Waist Dress Lemon,250.0,Women,Summer,NH Designs,Dresses,0.0456989247311828,6,2,2,1,0
+40844,Waist Dress Foshia,250.0,Women,Summer,NH Designs,Dresses,0.0456989247311828,6,2,2,1,0
+40845,Waist Dress white,250.0,Women,Summer,NH Designs,Dresses,0.0456989247311828,6,2,2,1,0
+40846,Bright Skirt,600.0,Women,Summer,NH Designs,T-Shirts,0.13978494623655913,6,13,2,1,1
+40847,Bright Kimono,700.0,Women,Summer,NH Designs,Summer Essentials,0.16666666666666666,6,10,2,1,1
+40848,Basic T_Shirt Dress Black,600.0,Women,Summer,NH Designs,Dresses,0.13978494623655913,6,2,2,1,1
+40849,2 in 1 printed skirt,600.0,Women,Summer,NH Designs,T-Shirts,0.13978494623655913,6,13,2,1,1
+40850,2 in 1 skirt Tiger,600.0,Women,Summer,NH Designs,T-Shirts,0.13978494623655913,6,13,2,1,1
+40851,2 in 1 skirt Foushia,600.0,Women,Summer,NH Designs,T-Shirts,0.13978494623655913,6,13,2,1,1
+40852,2 in 1 skirt Green,600.0,Women,Summer,NH Designs,T-Shirts,0.13978494623655913,6,13,2,1,1
+40853,Sleevles Top white,250.0,Unisex,All Season,NH Designs,Tops,0.0456989247311828,6,14,1,0,0
+40854,Linen shirt BLue,600.0,Unisex,All Season,NH Designs,Pants,0.13978494623655913,6,6,1,0,1
+40855,Black And Whit chemise,600.0,Unisex,All Season,NH Designs,T-Shirts,0.13978494623655913,6,13,1,0,1
+40856,Zebra chemise,600.0,Unisex,All Season,NH Designs,T-Shirts,0.13978494623655913,6,13,1,0,1
+40857,Linen shirt Biege,600.0,Unisex,All Season,NH Designs,Pants,0.13978494623655913,6,6,1,0,1
+40858,Linen shirt Black,600.0,Unisex,All Season,NH Designs,Pants,0.13978494623655913,6,6,1,0,1
+40859,Linen shirt White,600.0,Unisex,All Season,NH Designs,Pants,0.13978494623655913,6,6,1,0,1
+40860,Linen shirt Lemon,600.0,Unisex,All Season,NH Designs,Pants,0.13978494623655913,6,6,1,0,1
+40861,Linen shirt Fushia,600.0,Unisex,All Season,NH Designs,Pants,0.13978494623655913,6,6,1,0,1
+40862,Linen shirt olive,600.0,Unisex,All Season,NH Designs,Pants,0.13978494623655913,6,6,1,0,1
+40863,Flowy Short Kimono Lemon,650.0,Women,Summer,NH Designs,Shorts,0.1532258064516129,6,9,2,1,1
+40864,Flowy Short Kimono Fushia,650.0,Women,Summer,NH Designs,Shorts,0.1532258064516129,6,9,2,1,1
+40865,Basic Cross Shirt White,250.0,Unisex,All Season,NH Designs,T-Shirts,0.0456989247311828,6,13,1,0,0
+40866,Ruffle skirt Lemon,550.0,Women,Summer,NH Designs,T-Shirts,0.12634408602150538,6,13,2,1,1
+40867,Geometric Black & White Kimon,700.0,Unisex,All Season,NH Designs,T-Shirts,0.16666666666666666,6,13,1,0,1
+40868,White EveryDay Shirt,600.0,Unisex,All Season,NH Designs,T-Shirts,0.13978494623655913,6,13,1,0,1
+40869,Black EveryDay Tshirt,600.0,Unisex,All Season,NH Designs,T-Shirts,0.13978494623655913,6,13,1,0,1
+40870,Flowy Long Kimon Olive,850.0,Women,Summer,NH Designs,Summer Essentials,0.20698924731182797,6,10,2,1,1
+40871,Aqua Wrap Skirt,500.0,Women,Summer,NH Designs,T-Shirts,0.11290322580645161,6,13,2,1,1
+40872,Aqua Kimono,650.0,Women,Summer,NH Designs,Summer Essentials,0.1532258064516129,6,10,2,1,1
+40873,Flamingo Wrap Skirt,600.0,Women,Summer,NH Designs,T-Shirts,0.13978494623655913,6,13,2,1,1
+40874,Kenya Wrap Skirt,600.0,Women,Summer,NH Designs,T-Shirts,0.13978494623655913,6,13,2,1,1
+40875,Orange Flower Wrap Skirt,600.0,Women,Summer,NH Designs,T-Shirts,0.13978494623655913,6,13,2,1,1
+40876,Hot Zebra Kimono,700.0,Women,Summer,NH Designs,Summer Essentials,0.16666666666666666,6,10,2,1,1
+40877,Hot Zebra Wrap Skirt,500.0,Women,Summer,NH Designs,T-Shirts,0.11290322580645161,6,13,2,1,1
+40878,Flowy Long Kimono Orange,750.0,Women,Summer,NH Designs,Summer Essentials,0.18010752688172044,6,10,2,1,1
+40879,Flowy Long Kimono Baby Blue,750.0,Women,Summer,NH Designs,Summer Essentials,0.18010752688172044,6,10,2,1,1
+40880,Kiwi Silk Set,1500.0,Unisex,All Season,NH Designs,Sets,0.3817204301075269,6,8,1,0,2
+40881,Colorful Wrap Skirt,500.0,Women,Summer,NH Designs,T-Shirts,0.11290322580645161,6,13,2,1,1
+40882,Colorful Kimono,700.0,Women,Summer,NH Designs,Summer Essentials,0.16666666666666666,6,10,2,1,1
+40883,Flowy Short Kimono White,650.0,Women,Summer,NH Designs,Shorts,0.1532258064516129,6,9,2,1,1
+40884,Flowy Short Kimono Black,650.0,Women,Summer,NH Designs,Shorts,0.1532258064516129,6,9,2,1,1
+40885,Flowy Short Kimono Blue,650.0,Women,Summer,NH Designs,Shorts,0.1532258064516129,6,9,2,1,1
+40886,Flowy Short Kimono Beige,650.0,Women,Summer,NH Designs,Shorts,0.1532258064516129,6,9,2,1,1
+40887,Basic Cross Shirt Black,250.0,Unisex,All Season,NH Designs,T-Shirts,0.0456989247311828,6,13,1,0,0
+40888,Pop Wrap Skirt,450.0,Women,Summer,NH Designs,T-Shirts,0.09946236559139784,6,13,2,1,1
+40889,Pop Kimono,650.0,Women,Summer,NH Designs,Summer Essentials,0.1532258064516129,6,10,2,1,1
+40890,Apple Green Long Chemise,650.0,Unisex,All Season,NH Designs,T-Shirts,0.1532258064516129,6,13,1,0,1
+40891,Floral Wrap Skirt Green X Blue,450.0,Women,Summer,NH Designs,T-Shirts,0.09946236559139784,6,13,2,1,1
+40892,Floral Wrap Skirt Fushia X Lemon,450.0,Women,Summer,NH Designs,T-Shirts,0.09946236559139784,6,13,2,1,1
+40893,Floral Kimono Fushia X Lemon,650.0,Women,Summer,NH Designs,Summer Essentials,0.1532258064516129,6,10,2,1,1
+40894,Floral Wrap Skirt Purple X Black,400.0,Women,Summer,NH Designs,T-Shirts,0.08602150537634409,6,13,2,1,1
+40895,Floral Kimono Purple ??? Black,700.0,Women,Summer,NH Designs,Summer Essentials,0.16666666666666666,6,10,2,1,1
+40896,Floral Kimono Green X Blue,650.0,Women,Summer,NH Designs,Summer Essentials,0.1532258064516129,6,10,2,1,1
+40897,Floral Wrap Skirt Black X Beige,250.0,Women,Summer,NH Designs,T-Shirts,0.0456989247311828,6,13,2,1,0
+40898,Floral Kimono Black X Beige,700.0,Women,Summer,NH Designs,Summer Essentials,0.16666666666666666,6,10,2,1,1
+40899,Floral Wrap Skirt Fushia X Orange,600.0,Women,Summer,NH Designs,T-Shirts,0.13978494623655913,6,13,2,1,1
+40900,Floral Kimono Fushia X Orange,700.0,Women,Summer,NH Designs,Summer Essentials,0.16666666666666666,6,10,2,1,1
+40901,Forest Wrap Skirt,600.0,Women,Summer,NH Designs,T-Shirts,0.13978494623655913,6,13,2,1,1
+40902,Flowery Wrap Skirt,450.0,Women,Summer,NH Designs,T-Shirts,0.09946236559139784,6,13,2,1,1
+40903,Parrots Wrap Skirt,600.0,Women,Summer,NH Designs,T-Shirts,0.13978494623655913,6,13,2,1,1
+40904,Splash Long Chemise,650.0,Unisex,All Season,NH Designs,T-Shirts,0.1532258064516129,6,13,1,0,1
+40905,Hawaii Kimono,650.0,Women,Summer,NH Designs,Summer Essentials,0.1532258064516129,6,10,2,1,1
+40906,Fusion Kimono,650.0,Women,Summer,NH Designs,Summer Essentials,0.1532258064516129,6,10,2,1,1
+40907,Gradient Kimono,650.0,Women,Summer,NH Designs,Summer Essentials,0.1532258064516129,6,10,2,1,1
+40908,Orginal Zebra Kimono Pink,650.0,Women,Summer,NH Designs,Summer Essentials,0.1532258064516129,6,10,2,1,1
+40909,Orginal Zebra Kimono Green,650.0,Women,Summer,NH Designs,Summer Essentials,0.1532258064516129,6,10,2,1,1
+40910,The Palm Skirt,550.0,Women,Summer,NH Designs,T-Shirts,0.12634408602150538,6,13,2,1,1
+40911,Flowy Kimono Lemon,850.0,Women,Summer,NH Designs,Summer Essentials,0.20698924731182797,6,10,2,1,1
+40912,Flowy Long Kimono Beige,850.0,Women,Summer,NH Designs,Summer Essentials,0.20698924731182797,6,10,2,1,1
+40913,Flowy Long Kimono Blue,850.0,Women,Summer,NH Designs,Summer Essentials,0.20698924731182797,6,10,2,1,1
+40914,Flowy Long Kimono White,850.0,Women,Summer,NH Designs,Summer Essentials,0.20698924731182797,6,10,2,1,1
+40915,Flowy Long Kimono Black,850.0,Women,Summer,NH Designs,Summer Essentials,0.20698924731182797,6,10,2,1,1
+40916,Colorful Flowy Kimono,800.0,Women,Summer,NH Designs,Summer Essentials,0.1935483870967742,6,10,2,1,1
+40917,Flowy Kimono Fushia,850.0,Women,Summer,NH Designs,Summer Essentials,0.20698924731182797,6,10,2,1,1
+40919,Silk Corset Black,600.0,Unisex,All Season,NH Designs,T-Shirts,0.13978494623655913,6,13,1,0,1
+40920,Silk Corset Silver,600.0,Unisex,All Season,NH Designs,T-Shirts,0.13978494623655913,6,13,1,0,1
+40921,Silk Corset Green,600.0,Unisex,All Season,NH Designs,T-Shirts,0.13978494623655913,6,13,1,0,1
+40922,LEIL KIMONO,3800.0,Women,Summer,NH Designs,Summer Essentials,1.0,6,10,2,1,2
+40923,MOONLIGHT KAFTAN,2800.0,Unisex,All Season,NH Designs,T-Shirts,0.7311827956989247,6,13,1,0,2
+40924,Curly Short Jacket,999.0,Men,Winter,NH Designs,Jackets,0.24704301075268817,6,4,0,2,2
+40925,BASIC LEATHER JACKET,2500.0,Men,Winter,NH Designs,Jackets,0.6505376344086021,6,4,0,2,2
+40926,THE CLOUD KNITTED KIMONO,1399.0,Women,Winter,NH Designs,Knitwear,0.35456989247311826,6,5,2,2,2
+40927,THE LEOPARD WINTER PYJAMA,1290.0,Unisex,Winter,NH Designs,T-Shirts,0.32526881720430106,6,13,1,2,2
+40928,THE LEATHER HIGH NECK JACKET,2800.0,Men,Winter,NH Designs,Jackets,0.7311827956989247,6,4,0,2,2
+40929,THE LEOPARD SCARF,1100.0,Unisex,All Season,NH Designs,Accessories,0.27419354838709675,6,0,1,0,2
+40930,Brown LEATHER AND FUR JACKET,2800.0,Men,Winter,NH Designs,Jackets,0.7311827956989247,6,4,0,2,2
+40931,THE WAISTED JACKET,1490.0,Men,Winter,NH Designs,Jackets,0.3790322580645161,6,4,0,2,2
+40932,SUEDE TAILORED PANTS,1490.0,Unisex,All Season,NH Designs,Pants,0.3790322580645161,6,6,1,0,2
+40933,BLAZER COAT,1590.0,Unisex,Winter,NH Designs,Jackets,0.40591397849462363,6,4,1,2,2
+40934,ZIP UP LEATHER JACKET,1590.0,Men,Winter,NH Designs,Jackets,0.40591397849462363,6,4,0,2,2
+40935,BUTTONS WOOL JACKET,1800.0,Men,Winter,NH Designs,Jackets,0.46236559139784944,6,4,0,2,2
+40936,SUEDE BAG,800.0,Unisex,All Season,NH Designs,Accessories,0.1935483870967742,6,0,1,0,1
+40937,LEATHER BAG,800.0,Unisex,All Season,NH Designs,Accessories,0.1935483870967742,6,0,1,0,1
+40938,SUEDE JACKET,1800.0,Men,Winter,NH Designs,Jackets,0.46236559139784944,6,4,0,2,2
+40939,TRACKSUIT,1999.0,Unisex,All Season,NH Designs,T-Shirts,0.5158602150537634,6,13,1,0,2
+40940,Scarf Coats,1600.0,Unisex,Winter,NH Designs,Jackets,0.40860215053763443,6,4,1,2,2
+40941,Off Shoulder Full Set,1799.0,Women,Summer,NH Designs,Sets,0.4620967741935484,6,8,2,1,2
+40942,Full length Coat,1800.0,Unisex,Winter,NH Designs,Jackets,0.46236559139784944,6,4,1,2,2
+40943,Fur Maxi Coat,1999.0,Unisex,Winter,NH Designs,Jackets,0.5158602150537634,6,4,1,2,2
+40944,Fur Cuffs Coat,1900.0,Unisex,Winter,NH Designs,Jackets,0.489247311827957,6,4,1,2,2
+40945,Matching Trackset,1999.0,Unisex,All Season,NH Designs,T-Shirts,0.5158602150537634,6,13,1,0,2
+40946,Zip sweatshirt,999.0,Men,Winter,NH Designs,Sweatshirts,0.24704301075268817,6,12,0,2,2
+40947,Tailored jacket,1200.0,Men,Winter,NH Designs,Jackets,0.3010752688172043,6,4,0,2,2
+40948,Triple FULL SET,2499.0,Unisex,All Season,NH Designs,Sets,0.6502688172043011,6,8,1,0,2
+40949,Snatching Full SET,2200.0,Unisex,All Season,NH Designs,Sets,0.5698924731182796,6,8,1,0,2
+40950,Extra wide leg sweats,1050.0,Unisex,All Season,NH Designs,Pants,0.260752688172043,6,6,1,0,2
+40951,SNATCHING CORSER HOODIE,1199.0,Men,Winter,NH Designs,Hoodies,0.3008064516129032,6,3,0,2,2
+40952,THE CLOUD KNITTED KIMONO,1800.0,Women,Winter,NH Designs,Knitwear,0.46236559139784944,6,5,2,2,2
+40953,Off Shoulder hoodie,750.0,Women,Winter,NH Designs,Hoodies,0.18010752688172044,6,3,2,2,1
+40954,Washed sweats,1050.0,Unisex,All Season,NH Designs,T-Shirts,0.260752688172043,6,13,1,0,2
+40955,Corset hoodie,1050.0,Men,Winter,NH Designs,Hoodies,0.260752688172043,6,3,0,2,2
+40956,Thin Waist Sweats,799.0,Unisex,All Season,NH Designs,T-Shirts,0.1932795698924731,6,13,1,0,1
+40957,Pink cotton candy washed sweats,1050.0,Unisex,All Season,NH Designs,T-Shirts,0.260752688172043,6,13,1,0,2
+40958,Extra wide leg sweats,1050.0,Unisex,All Season,NH Designs,Pants,0.260752688172043,6,6,1,0,2
+40959,Long sleeve top,450.0,Unisex,All Season,NH Designs,Tops,0.09946236559139784,6,14,1,0,1
+40960,Tank Top,400.0,Unisex,Summer,NH Designs,Tops,0.08602150537634409,6,14,1,1,1
+40961,Baby Blue sweats,900.0,Unisex,All Season,NH Designs,T-Shirts,0.22043010752688172,6,13,1,0,1
+40962,winter everyday full set,1800.0,Unisex,Winter,NH Designs,Sets,0.46236559139784944,6,8,1,2,2
+40963,Tailored jacket,1200.0,Men,Winter,NH Designs,Jackets,0.3010752688172043,6,4,0,2,2
+40964,Leopard Denim shirt,250.0,Men,All Season,NH Designs,Denim,0.0456989247311828,6,1,0,0,0
+40965,Leopard  Denim pants,1500.0,Men,All Season,NH Designs,Denim,0.3817204301075269,6,1,0,0,2
+40966,Leather long coat,2100.0,Unisex,Winter,NH Designs,Jackets,0.543010752688172,6,4,1,2,2
+40967,Detachable Fur coat,2000.0,Unisex,Winter,NH Designs,Jackets,0.5161290322580645,6,4,1,2,2
+40968,faux fur jacket,2000.0,Men,Winter,NH Designs,Jackets,0.5161290322580645,6,4,0,2,2
+40969,knitted cardigans,1200.0,Unisex,Winter,NH Designs,Knitwear,0.3010752688172043,6,5,1,2,2
+40970,Burgundy Zipper Leather Jacket,1800.0,Men,Winter,NH Designs,Jackets,0.46236559139784944,6,4,0,2,2
+40971,Grey Maxi Coat X fur,2000.0,Unisex,Winter,NH Designs,Jackets,0.5161290322580645,6,4,1,2,2
+40972,Raw Denim chemise,1300.0,Men,All Season,NH Designs,Denim,0.3279569892473118,6,1,0,0,2
+40973,B&W knit set,2100.0,Unisex,Winter,NH Designs,Sets,0.543010752688172,6,8,1,2,2
+40974,waisted leather chemise,799.0,Unisex,All Season,NH Designs,T-Shirts,0.1932795698924731,6,13,1,0,1
+40975,Brown Leather pants,900.0,Unisex,All Season,NH Designs,Pants,0.22043010752688172,6,6,1,0,1
+40976,Black Fur Short Coat,1500.0,Unisex,Winter,NH Designs,Jackets,0.3817204301075269,6,4,1,2,2
+40977,Scarf full length,800.0,Unisex,All Season,NH Designs,Accessories,0.1935483870967742,6,0,1,0,1
+40978,Gold Buttoned jacket,1200.0,Men,Winter,NH Designs,Jackets,0.3010752688172043,6,4,0,2,2
+40979,Suede Blazer,950.0,Unisex,All Season,NH Designs,Jackets,0.23387096774193547,6,4,1,0,2
+40980,Leopard coat,1200.0,Unisex,Winter,NH Designs,Jackets,0.3010752688172043,6,4,1,2,2
+40981,Black Maxi Coat X fur,2000.0,Unisex,Winter,NH Designs,Jackets,0.5161290322580645,6,4,1,2,2
+40982,leopard scarf,800.0,Unisex,All Season,NH Designs,Accessories,0.1935483870967742,6,0,1,0,1
+40983,Tiger sweater,1200.0,Unisex,All Season,NH Designs,Sweatshirts,0.3010752688172043,6,12,1,0,2
+40984,Short Coat,1200.0,Unisex,Winter,NH Designs,Jackets,0.3010752688172043,6,4,1,2,2
+40985,crisscross Tailored,250.0,Unisex,All Season,NH Designs,Pants,0.0456989247311828,6,6,1,0,0
+40986,Kids Triplets Set,777.0,Unisex,All Season,NH Designs,Sets,0.18736559139784947,6,8,1,0,1
+40987,Track sweats,900.0,Unisex,All Season,NH Designs,T-Shirts,0.22043010752688172,6,13,1,0,1
+40988,Sweats,690.0,Unisex,All Season,NH Designs,T-Shirts,0.1639784946236559,6,13,1,0,1
+40989,Black Leather pants,699.0,Unisex,All Season,NH Designs,Pants,0.1663978494623656,6,6,1,0,1
+40990,Pieces everyday set “Tank top & Kimono”,250.0,Women,Summer,NH Designs,Sets,0.0456989247311828,6,8,2,1,0
+40991,Double Zipper X fur,250.0,Unisex,Winter,NH Designs,T-Shirts,0.0456989247311828,6,13,1,2,0
+40992,Knit Kimono,250.0,Women,Winter,NH Designs,Knitwear,0.0456989247311828,6,5,2,2,0
+40993,Blanket Hoodie,850.0,Men,Winter,NH Designs,Hoodies,0.20698924731182797,6,3,0,2,1
+40994,Blanket Hoodie,250.0,Men,Winter,NH Designs,Hoodies,0.0456989247311828,6,3,0,2,0
+40995,Pieces everyday ” Pants”,250.0,Unisex,All Season,NH Designs,Pants,0.0456989247311828,6,6,1,0,0
+40996,Pieces everyday ” Pants”,250.0,Unisex,All Season,NH Designs,Pants,0.0456989247311828,6,6,1,0,0
+40997,Leather chemise,1200.0,Unisex,All Season,NH Designs,T-Shirts,0.3010752688172043,6,13,1,0,2
+40998,Track suit set,1800.0,Unisex,All Season,NH Designs,Sets,0.46236559139784944,6,8,1,0,2
+40999,Flatter Me Dress,1200.0,Women,Summer,NH Designs,Dresses,0.3010752688172043,6,2,2,1,2
+41000,Winter Everyday T-shirt,900.0,Men,Winter,NH Designs,T-Shirts,0.22043010752688172,6,13,0,2,1
+41001,Winter Everyday pants,900.0,Unisex,Winter,NH Designs,Pants,0.22043010752688172,6,6,1,2,1
+41002,Cropped Hoodie,650.0,Women,Winter,NH Designs,Hoodies,0.1532258064516129,6,3,2,2,1
+41003,Puffer Jacket,250.0,Men,Winter,NH Designs,Jackets,0.0456989247311828,6,4,0,2,0
+41004,Black Carpenter Pants,1800.0,Unisex,All Season,NH Designs,Pants,0.46236559139784944,6,6,1,0,2
+41005,Latino Hoodie Black X Orange,750.0,Men,Winter,NH Designs,Hoodies,0.18010752688172044,6,3,0,2,1
+41006,Leather Corset,900.0,Unisex,All Season,NH Designs,T-Shirts,0.22043010752688172,6,13,1,0,1
+41007,Latino Hoodie,750.0,Men,Winter,NH Designs,Hoodies,0.18010752688172044,6,3,0,2,1
+41008,The zipper denim jacket,1200.0,Men,Winter,NH Designs,Denim,0.3010752688172043,6,1,0,2,2
+41009,Light jeans tailored pants,1250.0,Unisex,All Season,NH Designs,Denim,0.31451612903225806,6,1,1,0,2
+41010,The denim short trench,1200.0,Men,Summer,NH Designs,Denim,0.3010752688172043,6,1,0,1,2
+41011,The studded Denim,1290.0,Men,All Season,NH Designs,Denim,0.32526881720430106,6,1,0,0,2
+41012,DARK BLUE LOW-RISE wide leg,1500.0,Unisex,All Season,NH Designs,Pants,0.3817204301075269,6,6,1,0,2
+41013,DARK BLUE REGULAR FIT DENIM,800.0,Men,All Season,NH Designs,Denim,0.1935483870967742,6,1,0,0,1
+41014,BLACK LOW-RISE wide leg,1500.0,Unisex,All Season,NH Designs,Pants,0.3817204301075269,6,6,1,0,2
+41015,Grey cropped FOLDED Jacket,1290.0,Women,Winter,NH Designs,Jackets,0.32526881720430106,6,4,2,2,2
+41016,Black Low -RISE straight leg,800.0,Unisex,All Season,NH Designs,T-Shirts,0.1935483870967742,6,13,1,0,1
+41017,RAW CROPPED JACKET,1199.0,Women,Winter,NH Designs,Jackets,0.3008064516129032,6,4,2,2,2
+41018,GREY WASHED EXTRA WID LEG DENIM,1190.0,Men,All Season,NH Designs,Denim,0.29838709677419356,6,1,0,0,2
+41019,WASHED GREY FOLDED full set,2399.0,Unisex,All Season,NH Designs,Sets,0.6233870967741936,6,8,1,0,2
+41020,Raw FOLDED full set,2590.0,Unisex,All Season,NH Designs,Sets,0.6747311827956989,6,8,1,0,2
+41021,Dirty MID-RISE wide leg,1500.0,Unisex,All Season,NH Designs,Pants,0.3817204301075269,6,6,1,0,2
+41022,Grey FOLDED Jacket,1290.0,Men,Winter,NH Designs,Jackets,0.32526881720430106,6,4,0,2,2
+41023,Raw FOLDED Jacket,1290.0,Men,Winter,NH Designs,Jackets,0.32526881720430106,6,4,0,2,2
+41024,Washed Black FOLDED Denim,1500.0,Men,All Season,NH Designs,Denim,0.3817204301075269,6,1,0,0,2
+41025,Dark Blue FOLDED Denim,1500.0,Men,All Season,NH Designs,Denim,0.3817204301075269,6,1,0,0,2
+41026,Raw FOLDED DENIM,1500.0,Men,All Season,NH Designs,Denim,0.3817204301075269,6,1,0,0,2
+41027,Washed Grey FOLDED DENIM,1500.0,Men,All Season,NH Designs,Denim,0.3817204301075269,6,1,0,0,2
+41028,ICE Blue FOLDED DENIM,1500.0,Men,All Season,NH Designs,Denim,0.3817204301075269,6,1,0,0,2
+41029,Black MID-RISE wide leg,1500.0,Unisex,All Season,NH Designs,Pants,0.3817204301075269,6,6,1,0,2
+41030,THE REGULAR FIT DENIM,1200.0,Men,All Season,NH Designs,Denim,0.3010752688172043,6,1,0,0,2
+41031,Dark Blue MID-RISE wide leg,1500.0,Unisex,All Season,NH Designs,Pants,0.3817204301075269,6,6,1,0,2
+41032,Raw Denim,1650.0,Men,All Season,NH Designs,Denim,0.4220430107526882,6,1,0,0,2
+41033,Charleston Denim,1200.0,Men,All Season,NH Designs,Denim,0.3010752688172043,6,1,0,0,2
+41034,THE LOW RISE STRAIGHT LEG,1200.0,Unisex,All Season,NH Designs,T-Shirts,0.3010752688172043,6,13,1,0,2
+41035,The 90???s washed,1399.0,Unisex,All Season,NH Designs,T-Shirts,0.35456989247311826,6,13,1,0,2
+41036,The Baggy Grey Denim,1500.0,Men,All Season,NH Designs,Denim,0.3817204301075269,6,1,0,0,2
+41037,The Baggy blue,1500.0,Unisex,All Season,NH Designs,Accessories,0.3817204301075269,6,0,1,0,2
+41038,Low-rise Extra wide Denim,1200.0,Men,All Season,NH Designs,Denim,0.3010752688172043,6,1,0,0,2
+41039,Black Straight Flare,1500.0,Unisex,All Season,NH Designs,T-Shirts,0.3817204301075269,6,13,1,0,2
+41040,Crisscross Straight Denim,1500.0,Men,All Season,NH Designs,Denim,0.3817204301075269,6,1,0,0,2
+41041,THE MID-RISE wide leg,1500.0,Unisex,All Season,NH Designs,Pants,0.3817204301075269,6,6,1,0,2
+41042,Mid rise straight leg,1500.0,Unisex,All Season,NH Designs,T-Shirts,0.3817204301075269,6,13,1,0,2
+41043,Dirty Fringes short,600.0,Unisex,Summer,NH Designs,Shorts,0.13978494623655913,6,9,1,1,1
+41044,Black Fringes short,600.0,Unisex,Summer,NH Designs,Shorts,0.13978494623655913,6,9,1,1,1
+41045,Blue Fringes short,600.0,Unisex,Summer,NH Designs,Shorts,0.13978494623655913,6,9,1,1,1
+41046,Blue Baggy short,600.0,Unisex,Summer,NH Designs,Shorts,0.13978494623655913,6,9,1,1,1
+41047,Dirty Baggy short,600.0,Unisex,Summer,NH Designs,Shorts,0.13978494623655913,6,9,1,1,1
+41048,Black Pocket Baggy,250.0,Unisex,All Season,NH Designs,Accessories,0.0456989247311828,6,0,1,0,0
+41049,Bronze Carpenter washed,1399.0,Unisex,All Season,NH Designs,T-Shirts,0.35456989247311826,6,13,1,0,2
+41050,Bronze Carpenter washed,250.0,Unisex,All Season,NH Designs,T-Shirts,0.0456989247311828,6,13,1,0,0
+41051,Greyish Zipper Denim,250.0,Men,All Season,NH Designs,Denim,0.0456989247311828,6,1,0,0,0
+41052,Basic Blue Fitted Jacket,1600.0,Men,Winter,NH Designs,Jackets,0.40860215053763443,6,4,0,2,2
+41053,Straight Flare denim,250.0,Men,All Season,NH Designs,Denim,0.0456989247311828,6,1,0,0,0
+41054,The Wide leg belt Denim,1200.0,Men,All Season,NH Designs,Denim,0.3010752688172043,6,1,0,0,2
+41055,Blood Zipper Denim (,950.0,Men,All Season,NH Designs,Denim,0.23387096774193547,6,1,0,0,2
+41056,Black raw denim,1500.0,Men,All Season,NH Designs,Denim,0.3817204301075269,6,1,0,0,2
+41057,Black raw denim,250.0,Men,All Season,NH Designs,Denim,0.0456989247311828,6,1,0,0,0
+41058,Blue Bended raw denim,1500.0,Men,All Season,NH Designs,Denim,0.3817204301075269,6,1,0,0,2
+41059,Bended Black raw denim,1500.0,Men,All Season,NH Designs,Denim,0.3817204301075269,6,1,0,0,2
+41060,Raw flared jeans,888.0,Unisex,All Season,NH Designs,Denim,0.2172043010752688,6,1,1,0,1
+41061,Leopard fitted jacket,1400.0,Men,Winter,NH Designs,Jackets,0.3548387096774194,6,4,0,2,2
+41062,Grey Rhinestone Denim,1400.0,Men,All Season,NH Designs,Denim,0.3548387096774194,6,1,0,0,2
+41063,Raw Rhinestone Denim,1400.0,Men,All Season,NH Designs,Denim,0.3548387096774194,6,1,0,0,2
+41064,Blue cutout Denim,1000.0,Men,All Season,NH Designs,Denim,0.24731182795698925,6,1,0,0,2
+41065,Fitted jacket,1400.0,Men,Winter,NH Designs,Jackets,0.3548387096774194,6,4,0,2,2
+41066,Raw Denim,1155.0,Men,All Season,NH Designs,Denim,0.28897849462365593,6,1,0,0,2
+41067,Grey Dnm,1399.0,Unisex,All Season,NH Designs,T-Shirts,0.35456989247311826,6,13,1,0,2
+41068,dirty straight fit,1500.0,Men,All Season,NH Designs,T-Shirts,0.3817204301075269,6,13,0,0,2
+41069,Denim shirt,1200.0,Men,All Season,NH Designs,Denim,0.3010752688172043,6,1,0,0,2
+41070,Sparkle Double Denim,250.0,Men,All Season,NH Designs,Denim,0.0456989247311828,6,1,0,0,0
+41071,Carpenter washed,1399.0,Unisex,All Season,NH Designs,T-Shirts,0.35456989247311826,6,13,1,0,2
+41072,Dark washed dnm,1500.0,Unisex,All Season,NH Designs,T-Shirts,0.3817204301075269,6,13,1,0,2
+41073,Detailed Denim,599.0,Men,All Season,NH Designs,Denim,0.13951612903225807,6,1,0,0,1
+41074,Skaters Denim,599.0,Men,All Season,NH Designs,Denim,0.13951612903225807,6,1,0,0,1
+41075,Straight fit dnm,1500.0,Men,All Season,NH Designs,T-Shirts,0.3817204301075269,6,13,0,0,2
+41076,Baggiest Zip DNM,1399.0,Unisex,All Season,NH Designs,Accessories,0.35456989247311826,6,0,1,0,2
+41077,Blue carptner denim,1500.0,Men,All Season,NH Designs,Denim,0.3817204301075269,6,1,0,0,2
+41078,Cargo skirt,250.0,Women,Summer,NH Designs,Pants,0.0456989247311828,6,6,2,1,0
+41079,Blue Baggy short,250.0,Unisex,Summer,NH Designs,Shorts,0.0456989247311828,6,9,1,1,0
+41080,Black 90’s washed denim,600.0,Men,All Season,NH Designs,Denim,0.13978494623655913,6,1,0,0,1
+41081,Rhinestone Denim,1400.0,Men,All Season,NH Designs,Denim,0.3548387096774194,6,1,0,0,2
+41082,Greenish slit Denim,1399.0,Men,All Season,NH Designs,Denim,0.35456989247311826,6,1,0,0,2
+41083,Big Blacky denim,1500.0,Men,All Season,NH Designs,Denim,0.3817204301075269,6,1,0,0,2
+41084,Crisscross Belt Denim,250.0,Men,All Season,NH Designs,Denim,0.0456989247311828,6,1,0,0,0
+41085,Pocket Baggy,250.0,Unisex,All Season,NH Designs,Accessories,0.0456989247311828,6,0,1,0,0
+41086,Side Fringes jeans,250.0,Unisex,All Season,NH Designs,Denim,0.0456989247311828,6,1,1,0,0
+41087,Light Washed,1500.0,Unisex,All Season,NH Designs,T-Shirts,0.3817204301075269,6,13,1,0,2
+41088,carptner Dirty Denim,1500.0,Men,All Season,NH Designs,Denim,0.3817204301075269,6,1,0,0,2
+41089,Dirty Denim,1500.0,Men,All Season,NH Designs,Denim,0.3817204301075269,6,1,0,0,2
+41090,3D Denim,250.0,Men,All Season,NH Designs,Denim,0.0456989247311828,6,1,0,0,0
+41091,Washed Denim,250.0,Men,All Season,NH Designs,Denim,0.0456989247311828,6,1,0,0,0
+41092,Double Cargo Pants,250.0,Unisex,All Season,NH Designs,Pants,0.0456989247311828,6,6,1,0,0
+41093,Double Denima,250.0,Men,All Season,NH Designs,Denim,0.0456989247311828,6,1,0,0,0
+41094,Denim Top Black,250.0,Men,All Season,NH Designs,Denim,0.0456989247311828,6,1,0,0,0
+41095,Black Crisscross Pants,250.0,Unisex,All Season,NH Designs,Pants,0.0456989247311828,6,6,1,0,0
+41096,Denim Top Blue,250.0,Men,All Season,NH Designs,Denim,0.0456989247311828,6,1,0,0,0
+41097,zipper Denima pants,250.0,Men,All Season,NH Designs,Denim,0.0456989247311828,6,1,0,0,0
+41098,Denim Cargo,250.0,Men,All Season,NH Designs,Denim,0.0456989247311828,6,1,0,0,0
+41099,Fringes short,600.0,Unisex,Summer,NH Designs,Shorts,0.13978494623655913,6,9,1,1,1
+41100,Faux Fur Shawl,1500.0,Unisex,Winter,NH Designs,T-Shirts,0.3817204301075269,6,13,1,2,2
+41101,Fluff Jacket,2500.0,Men,Winter,NH Designs,Jackets,0.6505376344086021,6,4,0,2,2
+41102,Braided Knit Pullover,1500.0,Unisex,Winter,NH Designs,Knitwear,0.3817204301075269,6,5,1,2,2
+41103,Basic yoga pants,250.0,Unisex,All Season,NH Designs,Pants,0.0456989247311828,6,6,1,0,0
+41104,Floral full set Purple ??? Black,1500.0,Unisex,All Season,NH Designs,Sets,0.3817204301075269,6,8,1,0,2
+41105,Matching pants,700.0,Unisex,All Season,NH Designs,Pants,0.16666666666666666,6,6,1,0,1
+41106,Plisse Pants,250.0,Unisex,All Season,NH Designs,Pants,0.0456989247311828,6,6,1,0,0
+41107,white 4 Stripped Track Pants,700.0,Unisex,All Season,NH Designs,Pants,0.16666666666666666,6,6,1,0,1
+41108,Cargo Chutes,750.0,Unisex,All Season,NH Designs,Pants,0.18010752688172044,6,6,1,0,1
+41109,Buttoned Up Pants,800.0,Unisex,All Season,NH Designs,Pants,0.1935483870967742,6,6,1,0,1
+41110,Parachute Pants,550.0,Unisex,All Season,NH Designs,Pants,0.12634408602150538,6,6,1,0,1
+41111,Wrap It Pants,250.0,Unisex,All Season,NH Designs,Pants,0.0456989247311828,6,6,1,0,0
+41112,Flowy pants,250.0,Women,Summer,NH Designs,Pants,0.0456989247311828,6,6,2,1,0
+41113,Tailored Pant,250.0,Unisex,All Season,NH Designs,Pants,0.0456989247311828,6,6,1,0,0
+41114,Mix & Match,250.0,Unisex,All Season,NH Designs,T-Shirts,0.0456989247311828,6,13,1,0,0
+41115,Sweats,250.0,Unisex,All Season,NH Designs,T-Shirts,0.0456989247311828,6,13,1,0,0
+41116,Blood Zipper Denim,250.0,Men,All Season,NH Designs,Denim,0.0456989247311828,6,1,0,0,0
+41117,Stone Everyday Pants,800.0,Unisex,All Season,NH Designs,Pants,0.1935483870967742,6,6,1,0,1
+41118,Army EveryDay Pants,800.0,Unisex,All Season,NH Designs,Pants,0.1935483870967742,6,6,1,0,1
+41119,pink Zebra wrap pants,750.0,Unisex,All Season,NH Designs,Pants,0.18010752688172044,6,6,1,0,1
+41120,multi colors wrap pants,750.0,Unisex,All Season,NH Designs,Pants,0.18010752688172044,6,6,1,0,1
+41121,Black And Whit Pants,250.0,Unisex,All Season,NH Designs,Pants,0.0456989247311828,6,6,1,0,0
+41122,Green Graden wrap Pants,750.0,Unisex,All Season,NH Designs,Pants,0.18010752688172044,6,6,1,0,1
+41123,Blue Graden wrap Pants,750.0,Unisex,All Season,NH Designs,Pants,0.18010752688172044,6,6,1,0,1
+41124,Zebra pants,250.0,Unisex,All Season,NH Designs,Pants,0.0456989247311828,6,6,1,0,0
+41125,Purple Garden wrap pants,750.0,Unisex,All Season,NH Designs,Pants,0.18010752688172044,6,6,1,0,1
+41126,Tiger wrap pants,750.0,Unisex,All Season,NH Designs,Pants,0.18010752688172044,6,6,1,0,1
+41127,Satin wrap pants white,650.0,Unisex,All Season,NH Designs,Pants,0.1532258064516129,6,6,1,0,1
+41128,Satin wrap pants Green,650.0,Unisex,All Season,NH Designs,Pants,0.1532258064516129,6,6,1,0,1
+41129,Satin wrap pants Royal Blue,650.0,Unisex,All Season,NH Designs,Pants,0.1532258064516129,6,6,1,0,1
+41130,Satin wrap pants Baby Pink,650.0,Unisex,All Season,NH Designs,Pants,0.1532258064516129,6,6,1,0,1
+41131,Satin wrap pants Yellow,650.0,Unisex,All Season,NH Designs,Pants,0.1532258064516129,6,6,1,0,1
+41132,Satin wrap pants Orange,650.0,Unisex,All Season,NH Designs,Pants,0.1532258064516129,6,6,1,0,1
+41133,Geometric Black & white pants,250.0,Unisex,All Season,NH Designs,Pants,0.0456989247311828,6,6,1,0,0
+41134,Hot Zebra Wrap Pant,750.0,Unisex,All Season,NH Designs,Pants,0.18010752688172044,6,6,1,0,1
+41135,Colorful Wrap Pant,750.0,Unisex,All Season,NH Designs,Pants,0.18010752688172044,6,6,1,0,1
+41136,Comfy Sweats Purple,500.0,Unisex,All Season,NH Designs,T-Shirts,0.11290322580645161,6,13,1,0,1
+41137,Comfy Corset Purple,250.0,Unisex,All Season,NH Designs,T-Shirts,0.0456989247311828,6,13,1,0,0
+41138,Comfy Sweats Drak green,500.0,Unisex,All Season,NH Designs,T-Shirts,0.11290322580645161,6,13,1,0,1
+41139,Comfy Corset Dark Green,250.0,Unisex,All Season,NH Designs,T-Shirts,0.0456989247311828,6,13,1,0,0
+41140,Comfy Sweats Blue,500.0,Unisex,All Season,NH Designs,T-Shirts,0.11290322580645161,6,13,1,0,1
+41141,Comfy Corset Blue,250.0,Unisex,All Season,NH Designs,T-Shirts,0.0456989247311828,6,13,1,0,0
+41142,Comfy Sweats White,500.0,Unisex,All Season,NH Designs,T-Shirts,0.11290322580645161,6,13,1,0,1
+41143,Comfy Corset White,250.0,Unisex,All Season,NH Designs,T-Shirts,0.0456989247311828,6,13,1,0,0
+41144,Comfy Sweats Green,500.0,Unisex,All Season,NH Designs,T-Shirts,0.11290322580645161,6,13,1,0,1
+41145,Comfy Corset Green,250.0,Unisex,All Season,NH Designs,T-Shirts,0.0456989247311828,6,13,1,0,0
+41146,Organizer Tote Bag,500.0,Unisex,All Season,NH Designs,Accessories,0.11290322580645161,6,0,1,0,1
+41147,Organizer Tote Bag,500.0,Unisex,All Season,NH Designs,Accessories,0.11290322580645161,6,0,1,0,1
+41148,Organizer Tote Bag,500.0,Unisex,All Season,NH Designs,Accessories,0.11290322580645161,6,0,1,0,1
+41149,Organizer Tote Bag,500.0,Unisex,All Season,NH Designs,Accessories,0.11290322580645161,6,0,1,0,1
+41150,Organizer Tote Bag,500.0,Unisex,All Season,NH Designs,Accessories,0.11290322580645161,6,0,1,0,1
+41151,Cargo Sweats,600.0,Men,Winter,NH Designs,Sweatpants,0.13978494623655913,6,11,0,2,1
+41152,Cargo it Pants Pink,250.0,Unisex,All Season,NH Designs,Pants,0.0456989247311828,6,6,1,0,0
+41153,Cargo it Pants Orange,250.0,Unisex,All Season,NH Designs,Pants,0.0456989247311828,6,6,1,0,0
+41154,Cargo it Pants Gray,250.0,Unisex,All Season,NH Designs,Pants,0.0456989247311828,6,6,1,0,0
+41155,Cargo it Pants Bige,250.0,Unisex,All Season,NH Designs,Pants,0.0456989247311828,6,6,1,0,0
+41156,Cargo it Pants Green,250.0,Unisex,All Season,NH Designs,Pants,0.0456989247311828,6,6,1,0,0
+41157,Camo Pants Pink,600.0,Unisex,All Season,NH Designs,Pants,0.13978494623655913,6,6,1,0,1
+41158,Camo Pants Green,600.0,Unisex,All Season,NH Designs,Pants,0.13978494623655913,6,6,1,0,1
+41159,Camo Pants Blue,600.0,Unisex,All Season,NH Designs,Pants,0.13978494623655913,6,6,1,0,1
+41160,Wrap It Pants Floral,750.0,Unisex,All Season,NH Designs,Pants,0.18010752688172044,6,6,1,0,1
+41161,Cargo It Pants Olive,250.0,Unisex,All Season,NH Designs,Pants,0.0456989247311828,6,6,1,0,0
+41162,Silk Cargo Black,250.0,Unisex,All Season,NH Designs,Pants,0.0456989247311828,6,6,1,0,0
+41163,Silk Cargo Silver,250.0,Unisex,All Season,NH Designs,Pants,0.0456989247311828,6,6,1,0,0
+41164,Silk Cargo Green,250.0,Unisex,All Season,NH Designs,Pants,0.0456989247311828,6,6,1,0,0
+41165,Leopard scarf top,550.0,Unisex,All Season,NH Designs,Tops,0.12634408602150538,6,14,1,0,1
+41166,Leopard basic top,500.0,Unisex,Summer,NH Designs,Tops,0.11290322580645161,6,14,1,1,1
+41167,Basic top,400.0,Unisex,Summer,NH Designs,Tops,0.08602150537634409,6,14,1,1,1
+41168,Sparkle Tank Top,250.0,Unisex,Summer,NH Designs,Tops,0.0456989247311828,6,14,1,1,0
+41169,Stripped knitted Basic,500.0,Unisex,Winter,NH Designs,Knitwear,0.11290322580645161,6,5,1,2,1
+41170,Cutouts knitted Basic,250.0,Unisex,Winter,NH Designs,Knitwear,0.0456989247311828,6,5,1,2,0
+41171,sided knitted Basic,250.0,Unisex,Winter,NH Designs,Knitwear,0.0456989247311828,6,5,1,2,0
+41172,Basic knitted,250.0,Unisex,Winter,NH Designs,Knitwear,0.0456989247311828,6,5,1,2,0
+41173,Short Sleeve Bodysuit,450.0,Unisex,Summer,NH Designs,Shorts,0.09946236559139784,6,9,1,1,1
+41174,Body Suit,450.0,Unisex,All Season,NH Designs,T-Shirts,0.09946236559139784,6,13,1,0,1
+41175,Basic Squared Top Orange,250.0,Unisex,All Season,NH Designs,Tops,0.0456989247311828,6,14,1,0,0
+41176,Basic Squared Top Pink,250.0,Unisex,All Season,NH Designs,Tops,0.0456989247311828,6,14,1,0,0
+41177,Basic Squared Top Yellow,250.0,Unisex,All Season,NH Designs,Tops,0.0456989247311828,6,14,1,0,0
+41178,Basic Squared Top White,250.0,Unisex,All Season,NH Designs,Tops,0.0456989247311828,6,14,1,0,0
+41179,Basic Squared Top Black,250.0,Unisex,All Season,NH Designs,Tops,0.0456989247311828,6,14,1,0,0
+41180,WINTER PYJAMA,899.0,Unisex,Winter,NH Designs,T-Shirts,0.22016129032258064,6,13,1,2,1
+41181,White Mini hearts Short,199.0,Unisex,Summer,NH Designs,Shorts,0.03198924731182796,6,9,1,1,0
+41182,White Mini hearts pyjama,1200.0,Unisex,All Season,NH Designs,T-Shirts,0.3010752688172043,6,13,1,0,2
+41183,Pink Mini hearts Short,199.0,Unisex,Summer,NH Designs,Shorts,0.03198924731182796,6,9,1,1,0
+41184,Pink Mini hearts pyjama,250.0,Unisex,All Season,NH Designs,T-Shirts,0.0456989247311828,6,13,1,0,0
+41185,Leopard short,199.0,Unisex,Summer,NH Designs,Shorts,0.03198924731182796,6,9,1,1,0
+41186,Leopard pyjama,1200.0,Unisex,All Season,NH Designs,T-Shirts,0.3010752688172043,6,13,1,0,2
+41187,The rich girl short,199.0,Women,Summer,NH Designs,Shorts,0.03198924731182796,6,9,2,1,0
+41188,The rich girl pyjama,1200.0,Women,All Season,NH Designs,T-Shirts,0.3010752688172043,6,13,2,0,2
+41189,Cherries socks ??,80.0,Unisex,All Season,NH Designs,Accessories,0.0,6,0,1,0,0
+41190,mini hearts socks,80.0,Unisex,All Season,NH Designs,Accessories,0.0,6,0,1,0,0
+41191,stripped pyjamas,1200.0,Unisex,All Season,NH Designs,T-Shirts,0.3010752688172043,6,13,1,0,2
+41192,Barbie pyjama,1200.0,Unisex,All Season,NH Designs,T-Shirts,0.3010752688172043,6,13,1,0,2
+41193,Kisses pyjama,1200.0,Unisex,All Season,NH Designs,T-Shirts,0.3010752688172043,6,13,1,0,2
+41194,Mini hearts pyjama,250.0,Unisex,All Season,NH Designs,T-Shirts,0.0456989247311828,6,13,1,0,0
+41195,Velvet studded kaftan,2599.0,Unisex,All Season,NH Designs,T-Shirts,0.6771505376344086,6,13,1,0,2
+41196,Scarf Shimmer,500.0,Unisex,All Season,NH Designs,Accessories,0.11290322580645161,6,0,1,0,1
+41197,Shimmer kaftan,1700.0,Unisex,All Season,NH Designs,T-Shirts,0.43548387096774194,6,13,1,0,2
+41198,Bow scarf,500.0,Unisex,All Season,NH Designs,Accessories,0.11290322580645161,6,0,1,0,1
+41199,Sparkle scarf,500.0,Unisex,All Season,NH Designs,Accessories,0.11290322580645161,6,0,1,0,1
+41200,Bows kaftan,1699.0,Unisex,All Season,NH Designs,T-Shirts,0.4352150537634409,6,13,1,0,2
+41201,Sparkle Kaftan,2500.0,Unisex,All Season,NH Designs,T-Shirts,0.6505376344086021,6,13,1,0,2
+41202,Shawl kaftan,1300.0,Unisex,All Season,NH Designs,T-Shirts,0.3279569892473118,6,13,1,0,2
+41203,Gold & Beige kaftan,1500.0,Unisex,All Season,NH Designs,T-Shirts,0.3817204301075269,6,13,1,0,2
+41204,Handmade kaftan,2000.0,Unisex,All Season,NH Designs,T-Shirts,0.5161290322580645,6,13,1,0,2
+41205,Glow up,2000.0,Unisex,All Season,NH Designs,T-Shirts,0.5161290322580645,6,13,1,0,2
+41206,Ramadan Fringes,250.0,Unisex,All Season,NH Designs,T-Shirts,0.0456989247311828,6,13,1,0,0
+41207,Boho kaftan,1500.0,Unisex,All Season,NH Designs,T-Shirts,0.3817204301075269,6,13,1,0,2
+41208,Sweats,690.0,Unisex,All Season,NH Designs,T-Shirts,0.1639784946236559,6,13,1,0,1
+41209,FULL SET zipper sweatshirt & sweats,1999.0,Men,Winter,NH Designs,Sets,0.5158602150537634,6,8,0,2,2
+41210,Zipper sweatshirt,1050.0,Men,Winter,NH Designs,Sweatshirts,0.260752688172043,6,12,0,2,2
+41211,Big Blacky,1399.0,Unisex,All Season,NH Designs,T-Shirts,0.35456989247311826,6,13,1,0,2
+41212,90???s washed denim,250.0,Men,All Season,NH Designs,Denim,0.0456989247311828,6,1,0,0,0
+41213,Black 90???s washed denim,250.0,Men,All Season,NH Designs,Denim,0.0456989247311828,6,1,0,0,0
+41214,light washed Denim,250.0,Men,All Season,NH Designs,Denim,0.0456989247311828,6,1,0,0,0
+41215,Grayish Blood zipper,250.0,Unisex,All Season,NH Designs,T-Shirts,0.0456989247311828,6,13,1,0,0
+41216,Red Blood zipper,250.0,Unisex,All Season,NH Designs,T-Shirts,0.0456989247311828,6,13,1,0,0
+41217,carpenter Dirty,250.0,Unisex,All Season,NH Designs,T-Shirts,0.0456989247311828,6,13,1,0,0
+41218,Dirty Denim,250.0,Men,All Season,NH Designs,Denim,0.0456989247311828,6,1,0,0,0
+41219,Big blue denim,1399.0,Men,All Season,NH Designs,Denim,0.35456989247311826,6,1,0,0,2
+41220,MARSHMALLOW WOLRD Perfume,599.0,Unisex,All Season,NH Designs,T-Shirts,0.13951612903225807,6,13,1,0,1
+41221,SIGNATURE SWEET Perfume,599.0,Unisex,All Season,NH Designs,T-Shirts,0.13951612903225807,6,13,1,0,1
+41222,ROSE VANILLA Perfume,599.0,Unisex,All Season,NH Designs,T-Shirts,0.13951612903225807,6,13,1,0,1
+41223,CINNAMON VANILLA Perfume,599.0,Unisex,All Season,NH Designs,T-Shirts,0.13951612903225807,6,13,1,0,1
+41224,CANDY MUSK Perfume,599.0,Unisex,All Season,NH Designs,T-Shirts,0.13951612903225807,6,13,1,0,1
+41225,KHAYAL Perfume,599.0,Unisex,All Season,NH Designs,T-Shirts,0.13951612903225807,6,13,1,0,1
+41226,"Thin Waist Sweats,",799.0,Unisex,All Season,NH Designs,T-Shirts,0.1932795698924731,6,13,1,0,1
+41227,"Black Corset hoodie,",1050.0,Men,Winter,NH Designs,Hoodies,0.260752688172043,6,3,0,2,2
+41228,Black TRACKSUIT,1999.0,Unisex,All Season,NH Designs,T-Shirts,0.5158602150537634,6,13,1,0,2
+41229,"Zip sweatshirt,",999.0,Men,Winter,NH Designs,Sweatshirts,0.24704301075268817,6,12,0,2,2
+41230,"SUEDE JACKET,",1800.0,Men,Winter,NH Designs,Jackets,0.46236559139784944,6,4,0,2,2
+41231,"Snatching Full SET,",2200.0,Unisex,All Season,NH Designs,Sets,0.5698924731182796,6,8,1,0,2
+41232,"SNATCHING CORSER HOODIE,",1199.0,Men,Winter,NH Designs,Hoodies,0.3008064516129032,6,3,0,2,2
+41233,Leopard Clogs,399.0,Unisex,All Season,NH Designs,T-Shirts,0.08575268817204301,6,13,1,0,0
+41234,Colours Blanket Hoodie,600.0,Men,Winter,NH Designs,Hoodies,0.13978494623655913,6,3,0,2,1
+41235,Fluffy slides,450.0,Unisex,All Season,NH Designs,T-Shirts,0.09946236559139784,6,13,1,0,1
+41236,Clogs,450.0,Unisex,All Season,NH Designs,T-Shirts,0.09946236559139784,6,13,1,0,1
+41237,Tailored leather,650.0,Unisex,All Season,NH Designs,Pants,0.1532258064516129,6,6,1,0,1
+41238,Black Leather Faux Jacket,250.0,Men,Winter,NH Designs,Jackets,0.0456989247311828,6,4,0,2,0
+41239,Black Hip cover,300.0,Unisex,All Season,NH Designs,T-Shirts,0.05913978494623656,6,13,1,0,0
+41240,Fitted Raw full set,2590.0,Unisex,All Season,NH Designs,Sets,0.6747311827956989,6,8,1,0,2
+41241,Baggy short,600.0,Unisex,Summer,NH Designs,Shorts,0.13978494623655913,6,9,1,1,1
+41242,Floral Kimono,700.0,Women,Summer,NH Designs,Summer Essentials,0.16666666666666666,6,10,2,1,1
+41243,Floral Wrap Skirt,600.0,Women,Summer,NH Designs,T-Shirts,0.13978494623655913,6,13,2,1,1
+41244,Baby Blue Basic top,250.0,Unisex,Summer,NH Designs,Tops,0.0456989247311828,6,14,1,1,0
+41245,leopard extra wide leg,950.0,Unisex,All Season,NH Designs,Pants,0.23387096774193547,6,6,1,0,2
+41246,Trio Hoodie,750.0,Men,Winter,NH Designs,Hoodies,0.18010752688172044,6,3,0,2,1
+41247,Track suit jacket,250.0,Men,Winter,NH Designs,Jackets,0.0456989247311828,6,4,0,2,0
+41248,Leopard Socks,80.0,Unisex,All Season,NH Designs,Accessories,0.0,6,0,1,0,0
+41249,Studs leather jacket,1350.0,Men,Winter,NH Designs,Jackets,0.34139784946236557,6,4,0,2,2
+41250,Black Leather jacket,250.0,Men,Winter,NH Designs,Jackets,0.0456989247311828,6,4,0,2,0
+41251,Leather sparkle chemise,250.0,Unisex,All Season,NH Designs,T-Shirts,0.0456989247311828,6,13,1,0,0
+41252,Burgundy Leather jacket,250.0,Men,Winter,NH Designs,Jackets,0.0456989247311828,6,4,0,2,0
+41253,White waist leather,1250.0,Unisex,All Season,NH Designs,T-Shirts,0.31451612903225806,6,13,1,0,2
+41254,Sparkle leather pants,1200.0,Unisex,All Season,NH Designs,Pants,0.3010752688172043,6,6,1,0,2
+41255,Pearls clutch,750.0,Unisex,All Season,NH Designs,T-Shirts,0.18010752688172044,6,13,1,0,1
+41256,Clutch,600.0,Unisex,All Season,NH Designs,T-Shirts,0.13978494623655913,6,13,1,0,1
+41257,Dirty Baggy short,250.0,Unisex,Summer,NH Designs,Shorts,0.0456989247311828,6,9,1,1,0
+41258,Blue Fringes short,250.0,Unisex,Summer,NH Designs,Shorts,0.0456989247311828,6,9,1,1,0
+41259,Black Fringes short,250.0,Unisex,Summer,NH Designs,Shorts,0.0456989247311828,6,9,1,1,0
+41260,Dirty Fringes short,250.0,Unisex,Summer,NH Designs,Shorts,0.0456989247311828,6,9,1,1,0
+41261,Track suit Pants,850.0,Unisex,All Season,NH Designs,Pants,0.20698924731182797,6,6,1,0,1
+41262,Trio Pants,850.0,Unisex,All Season,NH Designs,Pants,0.20698924731182797,6,6,1,0,1
+41263,Trio corset Top,750.0,Unisex,All Season,NH Designs,Tops,0.18010752688172044,6,14,1,0,1
+41264,A_ Black Puff Tote Bag,500.0,Unisex,All Season,NH Designs,Accessories,0.11290322580645161,6,0,1,0,1
+41265,Army EveryDay Hoodie,800.0,Men,Winter,NH Designs,Hoodies,0.1935483870967742,6,3,0,2,1
+41266,Army Hip Cover,300.0,Unisex,All Season,NH Designs,T-Shirts,0.05913978494623656,6,13,1,0,0
+41267,Leather Wrap Skirt,600.0,Women,Summer,NH Designs,T-Shirts,0.13978494623655913,6,13,2,1,1
+41268,Corset Belt,200.0,Unisex,All Season,NH Designs,Accessories,0.03225806451612903,6,0,1,0,0
+41269,Floral Scarf Green X Blue,250.0,Unisex,All Season,NH Designs,Accessories,0.0456989247311828,6,0,1,0,0
+41270,Floral Scarf Fushia X Lemon,250.0,Unisex,All Season,NH Designs,Accessories,0.0456989247311828,6,0,1,0,0
+41271,Floral Scarf Purple X Black,250.0,Unisex,All Season,NH Designs,Accessories,0.0456989247311828,6,0,1,0,0
+41272,Floral Scarf Fushia X Orange,250.0,Unisex,All Season,NH Designs,Accessories,0.0456989247311828,6,0,1,0,0
+41273,Leather Squared Top,250.0,Unisex,All Season,NH Designs,Tops,0.0456989247311828,6,14,1,0,0
+41274,Leather Cargo,250.0,Unisex,All Season,NH Designs,Pants,0.0456989247311828,6,6,1,0,0
+41275,Transparent Tote Bag Fushia,250.0,Unisex,All Season,NH Designs,Accessories,0.0456989247311828,6,0,1,0,0
+41276,Transparent Tote Bag White,250.0,Unisex,All Season,NH Designs,Accessories,0.0456989247311828,6,0,1,0,0
+41277,Transparent Tote Bag Pink,250.0,Unisex,All Season,NH Designs,Accessories,0.0456989247311828,6,0,1,0,0
+41278,Transparent Tote Bag Yellow,250.0,Unisex,All Season,NH Designs,Accessories,0.0456989247311828,6,0,1,0,0
+41279,Transparent Tote Bag,200.0,Unisex,All Season,NH Designs,Accessories,0.03225806451612903,6,0,1,0,0
+41280,Transparent Tote Bag Orange,250.0,Unisex,All Season,NH Designs,Accessories,0.0456989247311828,6,0,1,0,0
+41281,Black Tote Bag,250.0,Unisex,All Season,NH Designs,Accessories,0.0456989247311828,6,0,1,0,0
+41282,Glossey Tote Bag,250.0,Unisex,All Season,NH Designs,Accessories,0.0456989247311828,6,0,1,0,0
+41283,Wrap It Pants Colors,600.0,Unisex,All Season,NH Designs,Pants,0.13978494623655913,6,6,1,0,1
+41284,t shirt,120.0,Unisex,All Season,Svg,T-Shirts,0.010752688172043012,9,13,1,0,0
+41285,t shirt black,500.0,Unisex,All Season,Svg,T-Shirts,0.11290322580645161,9,13,1,0,1
